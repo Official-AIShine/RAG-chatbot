@@ -1,0 +1,92 @@
+# # Core Framework ORIGINAL REQUIREMENTS
+# fastapi==0.117.1
+# uvicorn==0.36.1
+# python-dotenv==1.1.1
+
+# # LangChain Ecosystem (version-aligned)
+# langchain==0.3.27
+# langchain-core==0.3.76
+# langchain-community==0.3.27
+
+# # LangChain Integrations
+# langchain-google-genai==2.0.11  # ← CORRECTED (2.0.12 doesn't exist)
+# langchain-mongodb==0.7.0
+# langchain-aws==0.2.33
+
+# # Google AI (compatible with langchain-google-genai 2.0.11)
+# google-genai==0.3.0
+
+# # Database & Cloud
+# pymongo==4.15.1
+# boto3==1.40.36
+# certifi==2025.8.3
+
+# # Utilities
+# numpy==2.3.3
+# tenacity==9.1.2
+# nest_asyncio
+
+
+
+# WORKING REQUIREMENTS - UPDATED VERSIONS & COMMENTS
+# # fastapi==0.115.0
+# # uvicorn[standard]==0.32.0
+# # python-dotenv==1.0.1
+# # pymongo==4.10.1
+# # google-generativeai==0.8.3
+# # boto3==1.35.64
+# # pydantic==2.10.2
+# # pydantic-settings==2.6.1
+# # -------------------------
+# fastapi==0.117.1
+# uvicorn==0.36.1
+# python-dotenv==1.1.1
+# langchain==0.3.27
+# langchain-core==0.3.76
+# # langchain-google-genai>=0.0.11
+# langchain-google-genai==2.0.8  # Updated version
+# langchain-mongodb==0.7.0  # NEW - Native MongoDB support
+# langchain-aws==0.2.33  # NEW - Native Bedrock support
+# google-generativeai>=0.7.0
+# pymongo==4.15.1
+# boto3==1.40.36
+# numpy==2.3.3
+# tenacity==9.1.2  # NEW - Retry logic
+# certifi==2025.8.3  # SSL certificates
+# # Optional (if needed)
+# nest_asyncio  # Only if async issues
+# # prometheus-client  # Only for production metrics
+# # pytest  # Only for testing
+# # -------------------------
+
+
+
+
+# Core Framework (soft pinned)
+fastapi==0.117.*
+uvicorn==0.36.*
+python-dotenv==1.1.*
+
+# LangChain Ecosystem (lock minor, allow patches)
+langchain==0.3.*
+langchain-core==0.3.*
+langchain-community==0.3.*
+
+# LangChain Integrations (lock compatible minor lines)
+langchain-google-genai==2.0.*
+langchain-mongodb==0.7.*
+langchain-aws==0.2.*
+
+# Google AI — LEGACY SDK ONLY (bounded)
+google-generativeai>=0.8,<0.9
+google-ai-generativelanguage>=0.6.15,<0.6.16
+
+# Database & Cloud
+pymongo==4.15.*
+boto3==1.40.*
+certifi==2025.*
+
+# Utilities
+numpy==2.3.*
+tenacity==9.1.*
+nest_asyncio>=1.6,<2.0

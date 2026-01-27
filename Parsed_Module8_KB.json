@@ -1,0 +1,340 @@
+[
+    {
+        "topic": "What Is a GPT Bot?",
+        "category": "Introduction to GPT Bots",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "A GPT bot is a custom AI assistant created inside ChatGPT that follows a fixed set of instructions written by the user. Unlike normal chatting, where the AI may behave differently each time, a GPT bot acts in a consistent and predictable way.",
+        "content": "A GPT bot is a custom AI assistant created inside ChatGPT that follows a fixed set of instructions written by the user. Unlike normal chatting, where the AI may behave differently each time, a GPT bot acts in a consistent and predictable way. GPT bots are designed for specific purposes, such as teaching a subject, asking quiz questions, explaining concepts step by step, or guiding revision. Once instructions are set, the bot follows them in every conversation. You can think of a GPT bot as a trained role, not a thinking human. It does not guess your intention—it follows the rules you define. This makes GPT bots reliable study companions when built correctly.",
+        "keywords": [
+            "GPT bot",
+            "custom GPT",
+            "AI bot explained",
+            "student AI bot",
+            "learning bot",
+            "educational AI assistant",
+            "GPT instructions"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "GPT Bots vs Normal Chat: What’s the Difference?",
+        "category": "GPT Bots vs Normal Chatting",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Normal ChatGPT conversations change from one session to another. The AI may answer differently, forget earlier preferences, or require repeated instructions.",
+        "content": "Normal ChatGPT conversations change from one session to another. The AI may answer differently, forget earlier preferences, or require repeated instructions. GPT bots solve this problem by locking behaviour through instructions. A GPT bot remembers its role, tone, difficulty level, and output style in every conversation. This makes GPT bots more reliable for learning. Students don’t need to say “explain simply” or “give examples” again and again—the bot already knows.",
+        "keywords": [
+            "GPT bots vs ChatGPT",
+            "normal chat vs custom bot",
+            "AI consistency",
+            "student AI comparison",
+            "predictable AI responses"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Why GPT Bots Are Powerful Learning Partners for Students",
+        "category": "Benefits of GPT Bots for Learning",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "GPT bots are powerful for students because they can teach step by step, adjust explanations, and generate unlimited practice questions. They support self-paced learning, allowing students to revise anytime without waiting for a teacher.",
+        "content": "GPT bots are powerful for students because they can teach step by step, adjust explanations, and generate unlimited practice questions. They support self-paced learning, allowing students to revise anytime without waiting for a teacher. GPT bots are especially useful for revision, concept clarity, and practice. However, GPT bots are not shortcuts. They are meant to support learning, not replace thinking.",
+        "keywords": [
+            "AI tutor bot",
+            "learning with GPT bots",
+            "student revision AI",
+            "AI study partner",
+            "quiz bot",
+            "step by step learning"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "The Truth About GPT Bots: Instructions Control Everything",
+        "category": "How GPT Bots Actually Work",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "GPT bots do not think or understand like humans. They follow instructions and patterns given to them.",
+        "content": "GPT bots do not think or understand like humans. They follow instructions and patterns given to them. This is why clear instructions are critical. If instructions are vague, the bot behaves unpredictably. If instructions are clear and structured, the bot becomes reliable and helpful. This idea is called instruction engineering—a real AI skill used by professionals.",
+        "keywords": [
+            "GPT instructions",
+            "how GPT bots work",
+            "AI rules",
+            "instruction based AI",
+            "prompt engineering basics"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "What Are Custom Instructions in GPT Bots?",
+        "category": "Custom Instructions Basics",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Custom instructions are permanent rules that tell a GPT bot how to behave, teach, and respond. These instructions are written once and applied every time the bot is used.",
+        "content": "Custom instructions are permanent rules that tell a GPT bot how to behave, teach, and respond. These instructions are written once and applied every time the bot is used. Unlike normal prompts that work only for one message, custom instructions shape the bot’s personality, tone, depth, and style across all conversations. This makes GPT bots reliable learning companions. For students, custom instructions act like a teacher’s guidebook that the bot follows strictly. If the instructions are clear, the bot performs well. If they are unclear, the bot may give confusing answers.",
+        "keywords": [
+            "custom instructions GPT",
+            "bot instructions explained",
+            "GPT behaviour control",
+            "student GPT bots",
+            "AI rules setup"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "What Can Custom Instructions Control in a GPT Bot?",
+        "category": "Instruction Capabilities",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Custom instructions can control many aspects of a GPT bot’s behaviour. Students are often surprised by how powerful instructions are.",
+        "content": "Custom instructions can control many aspects of a GPT bot’s behaviour. Students are often surprised by how powerful instructions are. Instructions can control: Tone (friendly, teacher-like, playful) Difficulty level (basic, intermediate) Response style (step-by-step, bullet points) Examples (school-based, real-life) Restrictions (no direct answers, hints only) By controlling these elements, students can build bots that match their learning needs perfectly.",
+        "keywords": [
+            "GPT instruction control",
+            "bot tone control",
+            "AI response style",
+            "learning depth AI",
+            "student bot behaviour"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Write Once, Works Every Time: Why Instructions Matter More Than Prompts",
+        "category": "Instruction vs Prompt",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Prompts are temporary—they affect only one response. Instructions are permanent—they affect every response.",
+        "content": "Prompts are temporary—they affect only one response. Instructions are permanent—they affect every response. This is why GPT bots feel more reliable than normal chat. Once instructions are set, the bot behaves the same way every time, making learning smoother and less confusing. Students should use prompts to ask questions and instructions to define behaviour.",
+        "keywords": [
+            "instruction vs prompt",
+            "GPT reliability",
+            "AI consistency",
+            "student AI learning",
+            "bot stability"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Common Mistakes Students Make When Writing GPT Bot Instructions",
+        "category": "Instruction Mistakes",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Many beginner bots fail not because AI is weak, but because instructions are unclear. Common mistakes include writing instructions that are too short, too vague, or contradictory.",
+        "content": "Many beginner bots fail not because AI is weak, but because instructions are unclear. Common mistakes include writing instructions that are too short, too vague, or contradictory. Examples of mistakes: “Be helpful” (too vague) “Explain simply but deeply” (contradictory) No mention of grade level Good instructions are specific, structured, and student-focused.",
+        "keywords": [
+            "GPT instruction mistakes",
+            "bot behaviour errors",
+            "AI instruction problems",
+            "student AI debugging"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Step-by-Step: How to Create Your Own GPT Bot",
+        "category": "GPT Bot Creation Process",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Creating a GPT bot is a structured process that starts with clear thinking, not typing. Students first decide what the bot is supposed to do—teach, quiz, revise, or guide.",
+        "content": "Creating a GPT bot is a structured process that starts with clear thinking, not typing. Students first decide what the bot is supposed to do—teach, quiz, revise, or guide. Using the Custom GPT Builder inside ChatGPT, students then write instructions, set tone and level, and test the bot with real questions. The bot can be edited anytime, which encourages experimentation and learning. Students should remember: a good bot is built, tested, and improved, not created perfectly in one try.",
+        "keywords": [
+            "create GPT bot",
+            "custom GPT step by step",
+            "student AI bot creation",
+            "build AI tutor",
+            "GPT builder tutorial"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Choosing the Right Purpose for Your GPT Bot",
+        "category": "Bot Purpose & Use Case",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Every GPT bot should have one clear purpose. When a bot tries to do too many things, it becomes confusing and unreliable.",
+        "content": "Every GPT bot should have one clear purpose. When a bot tries to do too many things, it becomes confusing and unreliable. Common student-friendly bot purposes include: Tutor bot (explains concepts) Quiz bot (tests knowledge) Revision bot (summarises topics) Homework helper (gives hints, not answers) Choosing a single purpose makes instructions simpler and the bot more effective.",
+        "keywords": [
+            "GPT bot purpose",
+            "AI tutor bot",
+            "quiz bot",
+            "helper bot",
+            "student AI use cases"
+        ],
+        "module_name": "module8_kb"
+    },
+    [
+    {
+        "topic": "Naming Your GPT Bot and Giving It a Personality",
+        "category": "Bot Identity & Tone",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Naming your GPT bot and defining its personality makes it easier to interact with and remember. A friendly name helps students feel comfortable asking questions.",
+        "content": "Naming your GPT bot and defining its personality makes it easier to interact with and remember. A friendly name helps students feel comfortable asking questions. Personality includes tone (friendly, calm, strict), response length, and teaching style. These are controlled entirely by instructions. However, bots should never pretend to be humans. Personality is about communication style, not identity.",
+        "keywords": [
+            "GPT bot name",
+            "AI bot personality",
+            "friendly tutor bot",
+            "student AI creativity",
+            "bot tone design"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Setting Tone, Difficulty, and Teaching Style in GPT Bots",
+        "category": "Bot Customisation",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Tone and difficulty level decide how the bot speaks and teaches. A bot can be friendly or formal, basic or advanced.",
+        "content": "Tone and difficulty level decide how the bot speaks and teaches. A bot can be friendly or formal, basic or advanced. Students should always set: Grade level Explanation depth Use of examples Whether hints or answers are allowed This ensures the bot matches the student’s learning level.",
+        "keywords": [
+            "GPT bot tone",
+            "AI teaching style",
+            "student difficulty levels",
+            "explain simply AI",
+            "learning level control"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "How to Test Your GPT Bot Properly",
+        "category": "Bot Testing Basics",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Testing a GPT bot means checking whether it behaves exactly as intended. Many students skip this step and assume the bot works perfectly, which leads to confusion later.",
+        "content": "Testing a GPT bot means checking whether it behaves exactly as intended. Many students skip this step and assume the bot works perfectly, which leads to confusion later. Students should test: Simple questions Difficult questions Trick or unclear questions Out-of-scope questions Testing helps students understand where instructions are weak and need improvement.",
+        "keywords": [
+            "test GPT bot",
+            "AI bot testing",
+            "student bot evaluation",
+            "GPT reliability",
+            "AI behaviour testing"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Debugging a GPT Bot: Finding and Fixing Behaviour Problems",
+        "category": "Bot Debugging",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Debugging a GPT bot means fixing unwanted behaviour. This is done by improving instructions, not by arguing with the bot.",
+        "content": "Debugging a GPT bot means fixing unwanted behaviour. This is done by improving instructions, not by arguing with the bot. Common issues include: Bot giving answers when it should give hints Bot using advanced language Bot ignoring restrictions Each issue points to a missing or unclear instruction.",
+        "keywords": [
+            "debug GPT bot",
+            "fix AI bot behaviour",
+            "student AI debugging",
+            "GPT errors",
+            "instruction fixing"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Improving a Weak GPT Bot into a Strong One",
+        "category": "Bot Improvement",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "A weak GPT bot gives random, confusing, or inconsistent answers. A strong bot gives clear, predictable, and helpful responses.",
+        "content": "A weak GPT bot gives random, confusing, or inconsistent answers. A strong bot gives clear, predictable, and helpful responses. Improving a bot usually involves: Clarifying instructions Adding examples Restricting behaviour Defining fallback responses Bot improvement is an iterative process—small changes lead to big improvements.",
+        "keywords": [
+            "improve GPT bot",
+            "weak vs strong bot",
+            "AI refinement",
+            "student AI improvement",
+            "GPT quality control"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Common Student Mistakes When Building GPT Bots",
+        "category": "Student Errors & Fixes",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Most GPT bot mistakes are design mistakes, not AI failures. Common errors include: Trying to make one bot do everything Writing vague instructions Not setting grade level Skipping testing These mistakes are easy to fix once students understand how bots work.",
+        "content": "Most GPT bot mistakes are design mistakes, not AI failures. Common errors include: Trying to make one bot do everything Writing vague instructions Not setting grade level Skipping testing These mistakes are easy to fix once students understand how bots work.",
+        "keywords": [
+            "student GPT mistakes",
+            "AI bot errors",
+            "beginner AI pitfalls",
+            "GPT misuse",
+            "bot design mistakes"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Using GPT Bots Responsibly: Ethics and Safety for Students",
+        "category": "Ethics & Safe Use",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "GPT bots are powerful learning tools, but they must be used responsibly and ethically. Students should understand that AI is meant to support thinking, not replace it.",
+        "content": "GPT bots are powerful learning tools, but they must be used responsibly and ethically. Students should understand that AI is meant to support thinking, not replace it. Using GPT bots to cheat on exams, submit AI-generated answers as personal work, or bypass learning rules is unethical. Instead, GPT bots should be used for practice, clarification, and revision. Ethical use builds honesty, trust, and long-term skills.",
+        "keywords": [
+            "GPT bot ethics",
+            "responsible AI use",
+            "student AI safety",
+            "AI misuse prevention",
+            "ethical AI learning"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Homework, Exams, and GPT Bots: Clear Boundaries Explained",
+        "category": "Academic Boundaries",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "GPT bots can help students prepare for homework and exams, but they should not be used to complete assignments that require original thinking. Safe uses include: Understanding concepts Practicing questions Revising topics Unsafe uses include: Copy-pasting answers Taking exams using AI Submitting AI-written essays Understanding boundaries helps students stay safe and honest.",
+        "content": "GPT bots can help students prepare for homework and exams, but they should not be used to complete assignments that require original thinking. Safe uses include: Understanding concepts Practicing questions Revising topics Unsafe uses include: Copy-pasting answers Taking exams using AI Submitting AI-written essays Understanding boundaries helps students stay safe and honest.",
+        "keywords": [
+            "GPT homework rules",
+            "AI exam boundaries",
+            "student AI policy",
+            "ethical study AI",
+            "academic honesty AI"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Final Project: Build Your Own GPT Learning Bot",
+        "category": "Final Assessment Project",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "The final project challenges students to build a GPT bot for learning, such as a tutor, quiz bot, or revision helper. Students must: Define a clear purpose Write structured instructions Test and improve the bot Explain how AI supports learning The focus is on design thinking, ethics, and clarity, not complexity.",
+        "content": "The final project challenges students to build a GPT bot for learning, such as a tutor, quiz bot, or revision helper. Students must: Define a clear purpose Write structured instructions Test and improve the bot Explain how AI supports learning The focus is on design thinking, ethics, and clarity, not complexity.",
+        "keywords": [
+            "GPT bot project",
+            "student AI assignment",
+            "build learning bot",
+            "custom GPT assessment",
+            "AI education project"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "How GPT Bot Projects Are Evaluated: Student-Friendly Rubric",
+        "category": "Evaluation Rubric",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "GPT bot projects are evaluated on: Clarity of purpose Quality of instructions Consistency of behaviour Responsible AI use Balance matters more than advanced features.",
+        "content": "GPT bot projects are evaluated on: Clarity of purpose Quality of instructions Consistency of behaviour Responsible AI use Balance matters more than advanced features.",
+        "keywords": [
+            "GPT bot rubric",
+            "student AI grading",
+            "AI project evaluation",
+            "learning bot assessment"
+        ],
+        "module_name": "module8_kb"
+    },
+    {
+        "topic": "Reflection, Growth, and What to Build Next with GPT Bots",
+        "category": "Reflection & Next Steps",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Reflection helps students understand that building GPT bots is about thinking clearly, not technical complexity. Students should reflect on: What worked well What was challenging How instructions improved behaviour This prepares students for more advanced AI systems, such as AI agents and automation.",
+        "content": "Reflection helps students understand that building GPT bots is about thinking clearly, not technical complexity. Students should reflect on: What worked well What was challenging How instructions improved behaviour This prepares students for more advanced AI systems, such as AI agents and automation.",
+        "keywords": [
+            "AI learning reflection",
+            "GPT bot journey",
+            "student AI growth",
+            "next steps AI bots",
+            "learning with AI"
+        ],
+        "module_name": "module8_kb"
+    }
+]

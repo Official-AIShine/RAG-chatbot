@@ -1,0 +1,322 @@
+[
+    {
+        "topic": "What Is an App and Why Do We Use Apps Every Day?",
+        "category": "What Is an App?",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "An app is a digital tool designed to solve a specific problem or meet a particular need. Apps live on phones, tablets, laptops, and websites, and they help us complete tasks faster and more easily.",
+        "content": "An app is a digital tool designed to solve a specific problem or meet a particular need. Apps live on phones, tablets, laptops, and websites, and they help us complete tasks faster and more easily. Students already use apps every day—calculators for maths, messaging apps to communicate, games for entertainment, and study apps to learn. Each of these apps exists because someone identified a problem and built a solution. Apps are not just about technology; they are about helping people. A good app makes life simpler, more organised, or more enjoyable. In this module, students move from being app users to app creators.",
+        "keywords": [
+            "what is an app",
+            "mobile apps explained",
+            "student apps",
+            "digital tools",
+            "everyday apps",
+            "app basics",
+            "apps for students"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "From App User to App Creator: A Student’s Journey",
+        "category": "User vs Creator Mindset",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Most people use apps without thinking about how they are made. Becoming an app creator means thinking differently—asking why an app exists and how it works.",
+        "content": "Most people use apps without thinking about how they are made. Becoming an app creator means thinking differently—asking why an app exists and how it works. Creators don’t just consume technology; they shape it. They think about users, problems, design, and logic. This mindset is important not only for technology careers, but for creative thinking in any field. This module encourages students to see themselves as builders, even without coding knowledge.",
+        "keywords": [
+            "app creator mindset",
+            "student app builder",
+            "from user to creator",
+            "digital creativity",
+            "young innovators"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "What Is App Development? Traditional vs No-Code Explained",
+        "category": "What Is App Development?",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "App development is the process of designing how an app looks and how it works. Traditionally, developers write thousands of lines of code to control every detail.",
+        "content": "App development is the process of designing how an app looks and how it works. Traditionally, developers write thousands of lines of code to control every detail. No-code app development uses visual tools and prompts instead of manual coding. Students focus on ideas, logic, and user experience, while AI handles technical complexity. The thinking behind both approaches is the same: understanding problems, designing solutions, and testing results.",
+        "keywords": [
+            "app development explained",
+            "no code app development",
+            "traditional coding",
+            "student app building",
+            "how apps are made"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Meet Rocket.new: Building Apps with Prompts and Clicks",
+        "category": "Introduction to Rocket.new",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Rocket.new is a no-code app builder designed for beginners. It allows students to create real apps using simple text prompts and visual controls.",
+        "content": "Rocket.new is a no-code app builder designed for beginners. It allows students to create real apps using simple text prompts and visual controls. Instead of writing code, students describe what they want—forms, buttons, lists—and Rocket.new builds the app automatically. This makes app creation fast, fun, and accessible. Rocket.new is ideal for first-time app creators because it focuses on logic and design, not technical syntax.",
+        "keywords": [
+            "Rocket.new explained",
+            "no code app builder",
+            "prompt to app",
+            "student app tools",
+            "AI app creation"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "What Is TaskMate and What Problem Does It Solve?",
+        "category": "TaskMate App Overview",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "Students today juggle multiple responsibilities at once—homework, exams, projects, extracurricular activities, hobbies, and personal goals. Many students struggle not because they lack ability, but because they lack organisation.",
+        "content": "Students today juggle multiple responsibilities at once—homework, exams, projects, extracurricular activities, hobbies, and personal goals. Many students struggle not because they lack ability, but because they lack organisation. Tasks are forgotten, deadlines are missed, and stress builds up over time. TaskMate is designed to solve this exact problem. It is a simple, focused task-management app created specifically with students in mind. Instead of keeping tasks scattered across notebooks, WhatsApp messages, school portals, or memory, TaskMate brings everything into one clear digital space. What makes TaskMate special is not complexity, but clarity. Each task answers four important questions: What needs to be done? When does it need to be done? How important is it? Is it completed or still pending? From an app-development perspective, TaskMate is a perfect beginner project. It solves a real problem that students personally experience, making learning meaningful. Students are not building an app “just to learn technology”; they are building something they would actually use. TaskMate also teaches an important lesson in product design: useful apps do not need to be complicated. Many successful apps in the real world started with one simple feature that worked really well.",
+        "keywords": [
+            "TaskMate app",
+            "student task manager",
+            "productivity app for students",
+            "to-do list app",
+            "AI student productivity",
+            "task planning app"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Breaking Down TaskMate: Core Features Explained",
+        "category": "TaskMate Features",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Every app is made up of features, and each feature exists to solve a specific part of the user’s problem. Understanding features helps students think logically instead of randomly adding buttons and screens.",
+        "content": "Every app is made up of features, and each feature exists to solve a specific part of the user’s problem. Understanding features helps students think logically instead of randomly adding buttons and screens. TaskMate includes only the most essential features, which makes it powerful and beginner-friendly. The Task Title tells the app what the task is. Without it, the task has no identity.\n The Due Date helps students prioritise tasks and avoid last-minute stress.\n The Priority Level teaches decision-making—what must be done first and what can wait.\n The Completion Status gives students a sense of progress and achievement. From a design perspective, these features follow an important rule: every feature must answer a user question. If a feature does not help the user, it does not belong in the app. Students learn that good app design is not about adding more features, but about choosing the right features.",
+        "keywords": [],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Thinking Like a Product Designer: Users, Problems, and Solutions",
+        "category": "",
+        "level": "",
+        "type": "Overview",
+        "summary": "Product thinking means designing for people, not technology. Many beginner app builders focus on “what can I build?” instead of “who am I building for?” In TaskMate, students are both the creator and the user, which makes product thinking easier to understand.",
+        "content": "Product thinking means designing for people, not technology. Many beginner app builders focus on “what can I build?” instead of “who am I building for?” In TaskMate, students are both the creator and the user, which makes product thinking easier to understand. Students already know the pain of forgetting homework or missing deadlines, so they can clearly define the problem. Product thinking follows a simple but powerful flow: Identify the user Understand the user’s problem Design the simplest possible solution This mindset is used by professional app designers, startup founders, and entrepreneurs. Learning it early helps students develop empathy, clarity, and real-world problem-solving skills.",
+        "keywords": [],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "From Idea to App: Planning TaskMate Before Building",
+        "category": "",
+        "level": "",
+        "type": "Overview",
+        "summary": "Planning is the invisible step that makes app building smooth. Without planning, students often feel lost while building and end up redoing work.",
+        "content": "Planning is the invisible step that makes app building smooth. Without planning, students often feel lost while building and end up redoing work. Planning TaskMate involves deciding: What screens the app will have What actions users can take How users move from one screen to another This step teaches students that thinking comes before building. Even with AI tools like Rocket.new, planning saves time and improves quality. Professional developers plan using wireframes and flow diagrams. Students learn the same thinking process at a simpler level. ▶️ MODULE 9 – PART 3 (NEW, EXPANDED) Building TaskMate Step-by-Step Using Rocket.new",
+        "keywords": [],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Building TaskMate in Rocket.new: Step-by-Step Overview",
+        "category": "",
+        "level": "",
+        "type": "Overview",
+        "summary": "Building TaskMate using Rocket.new shows students how ideas turn into real software. Rocket.new allows students to describe what they want and instantly see it come to life.",
+        "content": "Building TaskMate using Rocket.new shows students how ideas turn into real software. Rocket.new allows students to describe what they want and instantly see it come to life. Instead of writing code, students define: What data the app stores How users interact with it What happens when buttons are clicked This teaches logical thinking without technical fear. Students learn that apps follow rules, not magic. Each step—creating fields, adding buttons, testing logic—reinforces cause-and-effect thinking, which is a core computational skill.",
+        "keywords": [],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Adding Task Fields: Title, Date, Priority, and Status",
+        "category": "",
+        "level": "",
+        "type": "Overview",
+        "summary": "Fields are how apps store information. In TaskMate, each field represents a question the app asks the user.",
+        "content": "Fields are how apps store information. In TaskMate, each field represents a question the app asks the user. By creating fields for title, date, priority, and status, students learn how apps remember information and how data drives behaviour. This introduces the idea that apps are not just screens—they are systems that manage information.",
+        "keywords": [],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Testing TaskMate: Finding Bugs and Improving User Experience",
+        "category": "",
+        "level": "",
+        "type": "Overview",
+        "summary": "Testing is where students truly understand their app. When something doesn’t work, students learn to ask: What did I expect?",
+        "content": "Testing is where students truly understand their app. When something doesn’t work, students learn to ask: What did I expect? What actually happened? What needs to change? This builds debugging skills, patience, and resilience—key traits of real developers. Module 9 – AI App Development (Rocket.new & Business Planning) PART 4: Improving the App & Thinking Like a Founder",
+        "keywords": [],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Enhancing TaskMate: Making an App Better After It Works",
+        "category": "App Enhancement & Iteration",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "Building the first version of an app is only the beginning. In the real world, no successful app is perfect on day one.",
+        "content": "Building the first version of an app is only the beginning. In the real world, no successful app is perfect on day one. Apps improve over time based on usage, testing, and feedback. This process is called iteration. Once TaskMate is working, students move into the improvement phase. They ask important questions: Is the app easy to use? Can users quickly find important tasks? Does anything feel confusing or slow? Enhancements may include: Sorting tasks by due date or priority Highlighting high-priority tasks Improving button labels or layout Through this, students learn that improvement is not about adding random features, but about making the app easier and more useful. This mindset mirrors real startup development, where teams continuously refine products based on how people actually use them.",
+        "keywords": [
+            "app improvement",
+            "app iteration",
+            "improve task app",
+            "student app upgrades",
+            "feature refinement",
+            "app enhancements"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Understanding User Feedback: Listening Before Improving",
+        "category": "User Feedback Basics",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "User feedback is information shared by people who use an app. Feedback tells the creator what is working and what is not.",
+        "content": "User feedback is information shared by people who use an app. Feedback tells the creator what is working and what is not. Without feedback, creators guess. With feedback, they improve intelligently. For TaskMate, feedback might come from: Classmates Friends Teachers Students learn to ask questions like: Was anything confusing? What feature did you like most? What would you change? Importantly, students learn that not all feedback should be followed. Good creators look for patterns instead of reacting to every comment. This builds critical thinking and decision-making skills.",
+        "keywords": [
+            "user feedback",
+            "app reviews",
+            "student feedback apps",
+            "usability feedback",
+            "product feedback basics"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "From App to Startup Idea: When Does an App Become a Business?",
+        "category": "App to Business Transition",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Not every app is a business, but every business starts by solving a problem. An app becomes a business idea when it provides value that people care about consistently.",
+        "content": "Not every app is a business, but every business starts by solving a problem. An app becomes a business idea when it provides value that people care about consistently. Students learn to ask: Does this app solve a real problem? Who would use it regularly? Why would someone choose this app? TaskMate introduces students to the idea that apps can grow into products, startups, or services. Even if students never launch a real business, this thinking builds entrepreneurial confidence.",
+        "keywords": [
+            "app startup basics",
+            "app business idea",
+            "student entrepreneurship",
+            "digital startup",
+            "app monetization basics"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "What Is a Business Plan and Why Do Founders Create One?",
+        "category": "Business Plan Basics",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "A business plan is a structured way to explain an idea clearly. It helps founders think through their idea before building too much or spending money.",
+        "content": "A business plan is a structured way to explain an idea clearly. It helps founders think through their idea before building too much or spending money. For students, a business plan is not about money—it is about clarity. It answers questions like: What problem am I solving? Who am I solving it for? How does my app help? By learning business planning early, students understand that successful products are not accidents—they are well-thought-out solutions.",
+        "keywords": [
+            "business plan explained",
+            "startup planning",
+            "student business plan",
+            "app business plan basics",
+            "entrepreneurship for students"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "What Is a Business Plan and Why Do Apps Need One?",
+        "category": "Business Plan Basics",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "A business plan is a clear explanation of an idea, the problem it solves, and how it creates value. It is not only for big companies or adults—students can also create simple business plans to explain their ideas clearly.",
+        "content": "A business plan is a clear explanation of an idea, the problem it solves, and how it creates value. It is not only for big companies or adults—students can also create simple business plans to explain their ideas clearly. For apps, a business plan answers important questions: Why does this app exist? Who will use it? What problem does it solve? How will it grow or improve? TaskMate may look like a small app, but it still solves a real problem. Learning to write a business plan helps students understand that apps are not just technology projects—they are solutions. This builds entrepreneurial thinking early and helps students explain their ideas confidently to teachers, parents, or judges.",
+        "keywords": [
+            "business plan explained",
+            "app business plan",
+            "student entrepreneurship",
+            "startup basics",
+            "app idea to business"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Identifying the Problem: The First Step of Any Business Plan",
+        "category": "Problem Identification",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Every successful business starts with a clear problem. If there is no real problem, there is no need for a solution.",
+        "content": "Every successful business starts with a clear problem. If there is no real problem, there is no need for a solution. For TaskMate, the problem is clear:\n Students forget tasks, feel overwhelmed, and struggle with time management. Students learn to describe problems in simple language: Who is facing the problem? What exactly is difficult? How often does it happen? This step teaches students that good apps don’t start with features—they start with problems.",
+        "keywords": [
+            "problem identification",
+            "app problem statement",
+            "student startup idea",
+            "user pain points",
+            "problem solving apps"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Defining the Solution: How Your App Solves the Problem",
+        "category": "Solution Design",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "Once the problem is clear, the next step is explaining the solution. This is where students describe how TaskMate helps users.",
+        "content": "Once the problem is clear, the next step is explaining the solution. This is where students describe how TaskMate helps users. A good solution explanation focuses on: Simplicity Ease of use Clear benefits Students learn that solutions should reduce effort, not increase it. TaskMate helps by organising tasks, showing priorities, and tracking progress. This step reinforces the idea that technology should make life easier, not more complicated.",
+        "keywords": [
+            "solution design",
+            "app value proposition",
+            "how apps solve problems",
+            "student innovation",
+            "TaskMate solution"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Who Are the Users? Understanding Your Target Audience",
+        "category": "Target Users",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Not everyone needs every app. A target audience is the specific group of people an app is built for.",
+        "content": "Not everyone needs every app. A target audience is the specific group of people an app is built for. For TaskMate, the main users are: School students Teenagers managing studies and activities Students learn that focusing on one group makes apps better and easier to improve. Understanding users helps students design better features and clearer interfaces.",
+        "keywords": [
+            "target users",
+            "app audience",
+            "student users",
+            "who will use the app",
+            "user personas"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Basic Business Model: How Can an App Create Value?",
+        "category": "Business Model Basics",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "A business model explains how an app creates value, not necessarily money. For student projects, value can mean saving time, reducing stress, or improving learning.",
+        "content": "A business model explains how an app creates value, not necessarily money. For student projects, value can mean saving time, reducing stress, or improving learning. Students are introduced to simple models: Free app for students Optional premium features School or community usage The goal is not to make money now, but to understand how apps sustain themselves.",
+        "keywords": [
+            "business model explained",
+            "app value creation",
+            "free apps",
+            "student startup basics",
+            "app monetisation basics"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Presenting Your App Idea: Explaining TaskMate to Others",
+        "category": "Pitching & Communication",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Building an app is only half the journey. Students must also learn to explain their ideas clearly.",
+        "content": "Building an app is only half the journey. Students must also learn to explain their ideas clearly. A simple app pitch includes: The problem The solution Who it helps Why it matters This builds confidence, public speaking skills, and clarity of thought.",
+        "keywords": [
+            "app pitching",
+            "student startup pitch",
+            "explaining app ideas",
+            "presentation skills",
+            "demo apps"
+        ],
+        "module_name": "module9_kb"
+    },
+    {
+        "topic": "Final Reflection: From Student to App Builder to Young Entrepreneur",
+        "category": "Reflection & Growth",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "This module helps students realise something powerful:\n They are not just learners—they are creators and problem-solvers. By building TaskMate and creating a business plan, students practice: Critical thinking Creativity Responsibility Confidence Reflection helps students see how far they’ve come and prepares them for advanced projects like AI agents, startups, and automation.",
+        "content": "This module helps students realise something powerful:\n They are not just learners—they are creators and problem-solvers. By building TaskMate and creating a business plan, students practice: Critical thinking Creativity Responsibility Confidence Reflection helps students see how far they’ve come and prepares them for advanced projects like AI agents, startups, and automation.",
+        "keywords": [
+            "student reflection",
+            "entrepreneurship journey",
+            "AI learning growth",
+            "app builder mindset",
+            "future innovators"
+        ],
+        "module_name": "module9_kb"
+    }
+]

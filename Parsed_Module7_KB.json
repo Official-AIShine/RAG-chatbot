@@ -1,0 +1,360 @@
+[
+    {
+        "topic": "What Is an AI Avatar?",
+        "category": "AI Avatar Fundamentals",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "An AI avatar is a digital character powered by artificial intelligence that can talk, move, present information, and show emotions. These avatars can look like real humans, cartoons, animated characters, robots, or completely fictional beings.",
+        "content": "An AI avatar is a digital character powered by artificial intelligence that can talk, move, present information, and show emotions. These avatars can look like real humans, cartoons, animated characters, robots, or completely fictional beings. Unlike static images or videos, AI avatars are interactive and dynamic. They use AI technologies to sync voice with lip movement, change facial expressions, and respond naturally to scripts. AI avatars are created using a combination of visual design, voice generation, and animation AI. Students don’t need cameras, studios, or acting skills—only creativity and clear instructions. For students, AI avatars make learning and presenting more engaging. Instead of reading slides, students can create a digital character that explains ideas clearly and confidently.",
+        "keywords": [
+            "AI avatar",
+            "digital avatar",
+            "talking avatar",
+            "virtual character",
+            "AI character",
+            "animated avatar",
+            "student AI avatars",
+            "virtual presenter"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Why Are AI Avatars Becoming So Popular?",
+        "category": "Avatar Revolution",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "AI avatars are popular because they make content creation faster, easier, and more flexible. People can create professional videos without cameras, lighting, actors, or studios.",
+        "content": "AI avatars are popular because they make content creation faster, easier, and more flexible. People can create professional videos without cameras, lighting, actors, or studios. One major reason for popularity is multilingual communication. An avatar can speak many languages, helping creators reach people worldwide. This is especially useful in education and global media. AI avatars also unlock unlimited creativity. Creators can design characters that don’t exist in real life—astronauts, robots, animated guides, or futuristic beings. Big brands now use AI avatars as digital influencers, saving cost while maintaining consistent content.",
+        "keywords": [
+            "AI avatars popularity",
+            "virtual influencers",
+            "AI presenters",
+            "digital humans",
+            "avatar content creation",
+            "AI media"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Where Are AI Avatars Used in the Real World?",
+        "category": "Real-World Applications",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "AI avatars are used across many industries. In education, avatars act as virtual teachers, tutors, and guides, helping students learn in multiple languages.",
+        "content": "AI avatars are used across many industries. In education, avatars act as virtual teachers, tutors, and guides, helping students learn in multiple languages. In gaming, avatars introduce characters, narrate stories, and guide players through tutorials. In entertainment, avatars host concerts, perform music, and act as influencers. In media, AI avatars deliver news 24/7. In customer support, they act as digital receptionists, answering questions quickly. Some advanced systems even use holographic avatars for live events.",
+        "keywords": [
+            "AI avatars use cases",
+            "avatars in education",
+            "avatars in gaming",
+            "AI news anchors",
+            "virtual customer support",
+            "hologram avatars"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "How AI Avatars Work: A Simple Behind-the-Scenes Explanation",
+        "category": "How AI Avatars Work",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "AI avatars are created using multiple AI systems working together. AI art models design the avatar’s appearance.",
+        "content": "AI avatars are created using multiple AI systems working together. AI art models design the avatar’s appearance. Text-to-speech AI generates a human-like voice. Next, video synthesis AI animates the avatar’s face and lips to match the voice. These systems update many times per second to keep lip-sync accurate and natural. Finally, video editing tools add music, effects, and polish to produce a finished video. Students don’t see this complexity because tools simplify it into easy steps.",
+        "keywords": [
+            "how AI avatars work",
+            "lip sync AI",
+            "text to speech avatars",
+            "video synthesis",
+            "avatar technology basics"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Types of AI Avatars You Can Create",
+        "category": "Avatar Styles & Formats",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "AI avatars come in many styles, and each style is used for a different purpose. Choosing the right avatar type helps make your message clearer and more engaging.",
+        "content": "AI avatars come in many styles, and each style is used for a different purpose. Choosing the right avatar type helps make your message clearer and more engaging. A realistic human avatar looks like a real presenter. These avatars are commonly used for education, business presentations, news updates, and professional content. They feel trustworthy and serious. A cartoon or anime avatar is playful and expressive. These are popular in youth content, storytelling, YouTube videos, and creative projects because they feel friendly and fun. A 3D game-style avatar looks like a video game character. These avatars are great for tutorials, game introductions, and tech demos because they feel interactive and modern. A robotic or futuristic avatar represents advanced technology or science fiction. These are often used in AI explanations, tech showcases, and innovation-themed projects.",
+        "keywords": [
+            "types of AI avatars",
+            "realistic avatar",
+            "cartoon avatar",
+            "anime avatar",
+            "3D avatar",
+            "robotic avatar",
+            "avatar styles",
+            "digital characters"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "How to Choose the Right Avatar for Your Project",
+        "category": "Avatar Selection & Personality",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Choosing an avatar is not just about looks—it’s about personality, purpose, and audience. A serious topic needs a calm, professional avatar, while a fun topic works better with a colorful character.",
+        "content": "Choosing an avatar is not just about looks—it’s about personality, purpose, and audience. A serious topic needs a calm, professional avatar, while a fun topic works better with a colorful character. Students should ask: Who is the audience? What emotion should the avatar show? Is the content educational, fun, or informative? The avatar’s voice, facial expressions, and style should match the message. AI tools allow easy experimentation, so students can test different avatars before finalizing.",
+        "keywords": [
+            "choose avatar style",
+            "avatar personality",
+            "avatar project goals",
+            "student avatar design",
+            "avatar storytelling"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "The 4-Step Workflow to Create an AI Avatar",
+        "category": "Avatar Creation Workflow",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Creating an AI avatar follows a simple four-step workflow. This structured process helps students stay organized and confident.",
+        "content": "Creating an AI avatar follows a simple four-step workflow. This structured process helps students stay organized and confident. The steps are: Create Music – Set mood and tone Generate Voice – Make the avatar speak Animate Avatar – Sync voice with visuals Edit Video – Add polish and effects Each step uses a different AI tool, and together they form a complete production pipeline.",
+        "keywords": [
+            "AI avatar workflow",
+            "create avatar step by step",
+            "avatar pipeline",
+            "student avatar creation",
+            "AI avatar process"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Why Music Is the First Step in Creating an AI Avatar",
+        "category": "Music Creation Fundamentals",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Music sets the emotional tone of an avatar video. Starting with music helps students decide whether the avatar feels calm, exciting, mysterious, or inspiring.",
+        "content": "Music sets the emotional tone of an avatar video. Starting with music helps students decide whether the avatar feels calm, exciting, mysterious, or inspiring. Music also helps plan pacing. A slow track suits educational content, while energetic music works well for games or announcements. AI tools like Suno AI allow students to generate custom background music using simple prompts, without needing musical instruments or experience.",
+        "keywords": [
+            "music for avatars",
+            "background music AI",
+            "avatar mood music",
+            "Suno AI music",
+            "student AI music"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "How AI Gives Avatars a Realistic Voice",
+        "category": "Voice AI Fundamentals",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "AI avatars speak using text-to-speech (TTS) technology, which converts written text into spoken words. Modern voice AI uses neural networks trained on thousands of hours of real human speech, allowing voices to sound natural and expressive.",
+        "content": "AI avatars speak using text-to-speech (TTS) technology, which converts written text into spoken words. Modern voice AI uses neural networks trained on thousands of hours of real human speech, allowing voices to sound natural and expressive. Unlike robotic voices from the past, today’s AI voices can show emotion, pacing, pauses, and personality. This makes avatar videos feel more human and engaging. For students, this means they can create professional-quality narration without recording their own voice or using microphones.",
+        "keywords": [
+            "AI voice generation",
+            "text to speech AI",
+            "avatar voice",
+            "neural voice",
+            "AI narration",
+            "student AI voice tools"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Using ElevenLabs to Create a Professional Avatar Voice",
+        "category": "ElevenLabs Workflow",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "ElevenLabs is an AI voice generation platform that helps students create natural, expressive voiceovers. It offers a library of voices with different tones, ages, and personalities.",
+        "content": "ElevenLabs is an AI voice generation platform that helps students create natural, expressive voiceovers. It offers a library of voices with different tones, ages, and personalities. Students start by pasting their script into the Text-to-Speech tool. They then select a voice and adjust settings like clarity, stability, emotion, and pace. The AI generates an audio file that can be downloaded and used in avatar animation. ElevenLabs supports multiple languages and accents, making it ideal for multilingual projects.",
+        "keywords": [
+            "ElevenLabs tutorial",
+            "AI voice tool",
+            "avatar narration",
+            "text to speech workflow",
+            "student voice generation"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Writing a Good Script for Your AI Avatar",
+        "category": "Script Writing Basics",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "A script is the heart of an avatar video. It decides what the avatar says, how long the video is, and how engaging it feels.",
+        "content": "A script is the heart of an avatar video. It decides what the avatar says, how long the video is, and how engaging it feels. Good avatar scripts are: Short and clear Conversational, not robotic Written as spoken language For best results, scripts should be 15–45 seconds long, especially for beginners. Short scripts improve lip-sync quality and keep viewers engaged.",
+        "keywords": [
+            "avatar script writing",
+            "AI narration script",
+            "student storytelling",
+            "short scripts",
+            "avatar dialogue"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Adding Emotion, Tone, and Personality to Avatar Voices",
+        "category": "Voice Customisation",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Emotion makes avatar voices feel alive. Students can control emotion by adjusting voice settings and writing expressive scripts.",
+        "content": "Emotion makes avatar voices feel alive. Students can control emotion by adjusting voice settings and writing expressive scripts. Pauses, punctuation, and emphasis help AI understand how to speak. Slower pace adds seriousness, while faster pace adds excitement. Students are encouraged to generate multiple versions of the same script and compare which sounds best.",
+        "keywords": [
+            "voice emotion AI",
+            "avatar personality",
+            "tone control",
+            "AI narration emotion",
+            "expressive avatars"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "How AI Turns Voice into a Talking Avatar",
+        "category": "Avatar Animation Basics",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Once the voice is ready, the next step is to animate the avatar so it looks like it is actually speaking. This is done using video synthesis and lip-sync AI.",
+        "content": "Once the voice is ready, the next step is to animate the avatar so it looks like it is actually speaking. This is done using video synthesis and lip-sync AI. The AI listens to the voice audio and predicts which mouth shapes, facial movements, and expressions should appear at each moment. This process happens many times per second to keep the animation smooth and natural. Students don’t need to control every movement. Instead, they focus on clear audio and good scripts, and the AI handles the animation automatically.",
+        "keywords": [
+            "avatar animation",
+            "talking avatar",
+            "lip sync AI",
+            "facial animation",
+            "AI video avatars",
+            "student avatar animation"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Using HeyGen to Animate Your AI Avatar",
+        "category": "HeyGen Workflow",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "HeyGen is an AI tool that turns a voice file into a talking avatar video. Students can choose from realistic presenters or stylised characters, depending on the project.",
+        "content": "HeyGen is an AI tool that turns a voice file into a talking avatar video. Students can choose from realistic presenters or stylised characters, depending on the project. The workflow is simple: choose an avatar, upload the voice audio, select language and lip-sync accuracy, and generate the video. Processing usually takes a few minutes. HeyGen is widely used in education for creating virtual teachers, announcements, and explainer videos.",
+        "keywords": [
+            "HeyGen tutorial",
+            "animate avatar AI",
+            "talking photo AI",
+            "avatar video creation",
+            "student avatar tools"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Lip-Sync Accuracy: Why Short Scripts Work Best",
+        "category": "Lip-Sync Best Practices",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Lip-sync accuracy means how closely the avatar’s mouth movements match the spoken words. The best lip-sync results happen with short, clear scripts.",
+        "content": "Lip-sync accuracy means how closely the avatar’s mouth movements match the spoken words. The best lip-sync results happen with short, clear scripts. Long scripts increase chances of mismatch or glitchy movement. That’s why students are encouraged to keep scripts 15–20 seconds per clip and combine multiple clips if needed. Clear pronunciation, moderate speed, and natural pauses help AI create smoother animation.",
+        "keywords": [
+            "lip sync accuracy",
+            "avatar mouth movement",
+            "short scripts avatars",
+            "AI video quality tips"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Common Avatar Animation Problems and How to Fix Them",
+        "category": "Troubleshooting Animation",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Even advanced AI tools can sometimes produce imperfect results. Common issues include lips not matching voice, glitchy movement, or music overpowering narration.",
+        "content": "Even advanced AI tools can sometimes produce imperfect results. Common issues include lips not matching voice, glitchy movement, or music overpowering narration. Most issues are caused by unclear audio, long scripts, or incorrect settings. The good news is that these problems are easy to fix with small adjustments. Learning troubleshooting teaches students patience and problem-solving.",
+        "keywords": [
+            "avatar animation issues",
+            "lip sync problems",
+            "glitchy avatar video",
+            "fix AI avatar",
+            "student troubleshooting"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Editing and Finalising Your AI Avatar Video",
+        "category": "Video Editing & Polish",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Once the avatar video is generated, editing helps turn it into a professional and engaging final product. Editing does not change the avatar itself—it improves how the story is presented.",
+        "content": "Once the avatar video is generated, editing helps turn it into a professional and engaging final product. Editing does not change the avatar itself—it improves how the story is presented. Editing includes adding: Text labels and titles Smooth transitions Background music (from Suno AI) Multiple avatar clips combined into one story Students should focus on clarity, not over-effects. Clean editing makes the avatar easier to understand and more enjoyable to watch.",
+        "keywords": [
+            "avatar video editing",
+            "AI avatar polish",
+            "video transitions",
+            "avatar titles",
+            "student video editing",
+            "final avatar video"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Ethics of AI Avatars: Using Technology Responsibly",
+        "category": "Ethics & Responsible Use",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "AI avatars are powerful, but they must be used ethically and responsibly. One major concern is deepfakes, where AI is used to copy real people without permission.",
+        "content": "AI avatars are powerful, but they must be used ethically and responsibly. One major concern is deepfakes, where AI is used to copy real people without permission. Students must never clone real voices, faces, or photos without clear consent. Avatars should never be used to pretend to be teachers, celebrities, or classmates. AI avatars should be used to educate, entertain, and create, not to mislead or harm others.",
+        "keywords": [
+            "AI avatar ethics",
+            "deepfake awareness",
+            "consent in AI",
+            "responsible AI avatars",
+            "digital identity safety"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Ethics Scenarios: Making the Right Choice with AI Avatars",
+        "category": "Ethics Scenarios",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Ethics scenarios help students think about real-life situations where AI avatars could be misused. Examples include: A friend cloning your voice without permission Someone pretending to be a teacher using an avatar A classmate’s photo being uploaded without consent In all cases, the correct response is to stop, report, and seek guidance.",
+        "content": "Ethics scenarios help students think about real-life situations where AI avatars could be misused. Examples include: A friend cloning your voice without permission Someone pretending to be a teacher using an avatar A classmate’s photo being uploaded without consent In all cases, the correct response is to stop, report, and seek guidance. These discussions build strong ethical thinking.",
+        "keywords": [
+            "AI ethics scenarios",
+            "avatar consent",
+            "AI misuse examples",
+            "student AI decision making"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Final Assessment: Create Your Own AI Avatar Video",
+        "category": "Final Assessment Task",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "The final assessment asks students to create a 30–45 second AI avatar video explaining a topic, story, or character. Students must: Use music, voice, and avatar animation Edit with titles and transitions Combine all steps from the workflow The focus is on clarity, creativity, and responsible AI use, not perfection.",
+        "content": "The final assessment asks students to create a 30–45 second AI avatar video explaining a topic, story, or character. Students must: Use music, voice, and avatar animation Edit with titles and transitions Combine all steps from the workflow The focus is on clarity, creativity, and responsible AI use, not perfection.",
+        "keywords": [
+            "AI avatar project",
+            "student avatar assignment",
+            "avatar video assessment",
+            "AI creative project"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "How Avatar Projects Are Evaluated: Student-Friendly Rubric",
+        "category": "Evaluation Rubric",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Avatar projects are evaluated on: Clarity of Message Creative Use of Tools Workflow Completion Responsible AI Use Balance matters more than technical complexity.",
+        "content": "Avatar projects are evaluated on: Clarity of Message Creative Use of Tools Workflow Completion Responsible AI Use Balance matters more than technical complexity.",
+        "keywords": [
+            "avatar rubric",
+            "student project grading",
+            "AI avatar evaluation",
+            "creative assessment"
+        ],
+        "module_name": "module7_kb"
+    },
+    {
+        "topic": "Reflection, Learning, and What to Build Next with AI Avatars",
+        "category": "Reflection & Growth",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Reflection helps students understand what they learned and how they grew. This module shows that AI avatars are not just tools, but ways to express ideas confidently.",
+        "content": "Reflection helps students understand what they learned and how they grew. This module shows that AI avatars are not just tools, but ways to express ideas confidently. Students should reflect on: Which step was easiest Which step was hardest What they want to create next Reflection turns skills into long-term confidence.",
+        "keywords": [
+            "learning reflection",
+            "AI avatar journey",
+            "student creativity growth",
+            "next steps AI avatars"
+        ],
+        "module_name": "module7_kb"
+    }
+]

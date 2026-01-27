@@ -1,0 +1,392 @@
+[
+  {
+    "topic": "What Is a Website",
+    "category": "Website Basics",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "A website is a digital space on the internet containing connected web pages with text, photos, videos, and interactive elements. It serves as a platform for sharing information, learning, and connecting with others.",
+    "content": "A website is a space on the internet where people can explore, learn, watch, read, and interact with content. It's like a digital home made of connected web pages, each one holding different pieces of information. These can include text, photos, videos, buttons, forms, and links that lead you to more content. The first page of most websites is called the homepage. It's like the front door that welcomes visitors and tells them what the site is about. Websites serve many purposes. Some are made to share ideas or stories, educate or explain topics, show creative work or class projects, promote school clubs or events, or sell products or services. For example, your school's website might have sections like About Us for school history, Gallery to show event photos, and Contact to reach teachers or staff. Today, websites can be built using code like HTML and CSS, or by using AI tools that build the structure for you based on what you describe in a prompt. That means you don't need to be a programmer to make your own website, just someone with an idea to share. In short, a website is your voice on the internet, a place to express, create, and connect with others.",
+    "keywords": ["website", "homepage", "web pages", "sections", "internet", "digital content", "online space", "HTML", "CSS", "AI tools"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Why Should Students Learn to Build Websites",
+    "category": "Purpose and Learning Goals",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Learning to build websites transforms students from internet consumers to creators, teaching them valuable skills in organization, design, problem-solving, and digital communication.",
+    "content": "Learning to build websites helps students become creators, not just consumers of the internet. Instead of only browsing YouTube, reading blogs, or scrolling social media, students who build websites actually create the content others see online. A website is like a digital notebook or personal project space that can be shared with the world. You can use it to show off your school projects or art, share your thoughts, hobbies, or stories, or create something useful for your club, school, or community. But it's not just about the website itself, it's about the skills you gain. You learn to organize ideas clearly by deciding what goes where, how to group information, and how to make the content flow well. You make design decisions by choosing colors, fonts, layouts, and images to match your topic and style. You develop problem-solving and creative thinking by figuring out how to turn your vision into something real and easy to use. You practice digital communication as writing for websites helps you explain ideas in a way that others can understand quickly. These skills go beyond just tech, they help in every part of life including doing better in school presentations, creating digital portfolios for college, and preparing for careers in design, coding, journalism, or business. Whether you want to be a coder, a teacher, a business owner, or an artist, knowing how to build websites gives you a powerful edge in today's world.",
+    "keywords": ["student skills", "digital creativity", "website development", "communication", "future skills", "technology confidence", "problem-solving", "design thinking", "digital portfolios"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "How Does AI Help in Website Building",
+    "category": "AI Tools and Applications",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "AI-powered website builders like Lovable AI and WIX AI enable students to create websites by describing what they want in simple prompts, eliminating the need for coding knowledge.",
+    "content": "Artificial Intelligence has made website building faster, easier, and more creative, even for students who have never coded before. Instead of writing long lines of HTML or CSS, students can now use AI-powered website builders like Lovable AI and WIX AI. These tools act like digital assistants that understand your instructions and build a full website for you. AI website builders work using a simple idea. You describe what you want, and the AI creates the website for you. This description is called a prompt. It can be one sentence or a short paragraph explaining the purpose, style, and sections of your website. For example, if you type Create a website for a school science club with a homepage, gallery, project section, and contact page, the AI will automatically choose the layout by deciding how the different parts of the website should be arranged, like where the title goes, where images should be placed, and how the sections flow. It selects colors and fonts, picking a visual theme that matches the project's purpose. For a science club, it might choose clean, modern colors and sharp fonts. The AI adds sample text and images, filling in the site with placeholders or example content so students can visualize the final look. It creates all the sections including a homepage, about section, gallery or project page, contact page, and footer area. This is known as no-code website building, because the student never has to write any code manually. The AI handles the technical work, while the student focuses on creativity and structure.",
+    "keywords": ["AI tools", "website generator", "no-code design", "Lovable AI", "WIX AI", "automation", "prompt-based building", "website creation", "HTML", "CSS"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "AI and Student Creativity in Website Building",
+    "category": "AI Tools and Applications",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "While AI handles the technical aspects of website creation, students retain creative control over content, design choices, and the overall purpose and message of their websites.",
+    "content": "AI helps students by saving hours of time, removing fear of coding, giving a professional starting point, encouraging creativity, and letting students focus on ideas instead of technical details. But even with all this help, AI does not replace the student. Students still make the important decisions including what the website is truly about, which images represent their idea, how the homepage should feel, what text to keep, edit, or rewrite, what to add or remove from the layout, and how to express their style, voice, and purpose. AI creates the first draft, but the student shapes the final product. In simple words, AI builds the structure and you bring the creativity. This teamwork between human creativity and AI speed makes website creation fun, accessible, and powerful for all students, even beginners.",
+    "keywords": ["student creativity", "AI collaboration", "creative control", "website customization", "human-AI teamwork", "design decisions", "content creation", "personalization"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Parts of a Website Header",
+    "category": "Website Structure",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "The header is the top section of every webpage, containing the website name, navigation menu, and welcoming elements that help visitors understand the site and navigate it easily.",
+    "content": "Every website has a structure, just like a building has a layout. The parts of a website help organize information, guide the visitor's experience, and make everything easier to understand. Whether you're using an AI tool or building it manually, understanding these parts is key to creating a well-designed site. The header is the first thing people see when they open your website. It sits at the very top of every page and acts like a signpost that tells visitors where they are. A good header usually includes the website name, logo, or brand title, a navigation bar or menu with links to key pages like Home, About, and Contact, sometimes a banner image or a message like Welcome to Our Site, and a call to action such as Join Now, Start Here, or Explore More. The header helps users immediately know what your site is about and how to move around it. It's the digital equivalent of a front door and signboard.",
+    "keywords": ["header", "navigation bar", "website structure", "homepage layout", "website name", "logo", "menu", "call to action", "banner"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Parts of a Website Main Sections",
+    "category": "Website Structure",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Main sections form the heart of a webpage, containing the primary content like text, images, videos, and interactive elements organized in a clear, vertically stacked layout.",
+    "content": "The main section is the largest part of a web page. This is where your main content lives, like writing, pictures, videos, or interactive tools. Typical sections include a welcome or introduction area with a short message or overview, information blocks with paragraphs, images, or infographics, galleries showing collections of photos or embedded videos, highlight boxes to feature events, achievements, or projects, buttons and internal links to let users explore further or take action, and forms for contact, sign-ups, or feedback. Sections are usually stacked vertically, so as users scroll down, they see one part after another. Each section should be clearly separated using space, background color, or dividers to keep it clean.",
+    "keywords": ["main sections", "page content", "website layout", "information blocks", "galleries", "buttons", "forms", "vertical layout", "content organization"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Parts of a Website Footer",
+    "category": "Website Structure",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "The footer appears at the bottom of every webpage, providing contact information, copyright notices, credits, and additional links without cluttering the main content.",
+    "content": "The footer sits at the very bottom of every web page. Think of it like the closing signature of your site. While not always flashy, it's extremely useful. A helpful footer often includes contact information such as email, school address, or phone number, a copyright notice like Copyright 2025 by Team TechStars, credits or website authors especially if it's a class project, links to external pages like social media, forms, or reference sites, and a short message or school, class, or project name. The footer helps people know how to follow up, who made the site, and what to do next. It can also link to extra info without cluttering the top.",
+    "keywords": ["footer", "contact information", "copyright", "credits", "external links", "website structure", "page design", "social media links"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Importance of Website Structure",
+    "category": "Website Structure",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Understanding website structure enables students to create clear, user-friendly websites where visitors can easily navigate and find information without confusion.",
+    "content": "When you understand the parts of a website, you can build clear, user-friendly websites. Visitors feel more comfortable because they know where to start, they can easily find what they're looking for, and they don't get lost or confused while scrolling. A well-structured website looks professional, keeps people engaged, and helps share your message clearly. Even when using AI tools like Lovable or WIX, you can still plan your sections first. AI helps with the layout, but you decide what content belongs where. Remember that good structure equals clear communication, and clear communication equals a great website experience.",
+    "keywords": ["website structure", "user experience", "navigation", "organization", "professional design", "content planning", "visitor engagement", "clarity"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "What is a Prompt in AI Website Tools",
+    "category": "AI Prompting",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "A prompt is a sentence or paragraph typed into an AI tool that describes what kind of website you want, including its purpose, style, sections, and design preferences.",
+    "content": "A prompt is a sentence or short paragraph that you type into an AI tool to explain what you want it to create. It's similar to giving instructions to a helper who follows your words very carefully. When you write a prompt for an AI website builder like Lovable AI or WIX AI, you are telling the AI what kind of website you want, what it should look like, what pages or sections it should include, and what style, colors, or mood you prefer. The AI reads your prompt and uses it to automatically generate a website. This is why writing a clear and specific prompt is one of the most important skills in AI-based website creation. AI tools are powerful, but they don't read minds. They only understand the words you give them. A strong prompt helps the AI choose the right layout, pick suitable images, prepare the right number of sections, match the style you imagined, and create a website that fits your purpose. A weak or vague prompt gives the AI very little to work with, so the website may look random or incomplete.",
+    "keywords": ["prompt", "input", "instructions", "AI generation", "description", "prompt writing", "website request", "AI commands", "clear communication"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Basic Prompt versus Detailed Prompt",
+    "category": "AI Prompting",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Detailed prompts that specify purpose, style, sections, and content type produce more accurate and complete websites compared to basic prompts with minimal information.",
+    "content": "A basic prompt like Create a website for a cooking club tells the AI the general topic, but not much else. The result might be very simple or not match what you wanted. A better prompt would be Make a colorful website for a school cooking club. Include a homepage, recipe gallery, events page, and a contact section. Use fun fonts and food-themed images. This version tells the AI the purpose as a school cooking club, the style as colorful with fun fonts, the sections including homepage, gallery, events, and contact, and the content type with recipes and food images. The better prompt gives the AI more details, so it can create a more accurate and complete website.",
+    "keywords": ["prompt quality", "detailed instructions", "AI accuracy", "website specifications", "effective prompting", "content description", "design details"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "What Makes a Good Prompt",
+    "category": "AI Prompting",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Good prompts include five key elements: purpose, audience, desired sections, design style, and any special features needed for the website.",
+    "content": "Good prompts include several key elements. First, the purpose of the website explains what the website is about and why it exists, such as a site to showcase science fair projects. Second, the audience identifies who will visit or use the website, like made for students and teachers. Third, the sections you want specify the specific pages or parts the website should have, such as homepage, about page, project gallery, and contact page. Fourth, the design style or theme describes how you want the website to look or feel, like use bright colors, simple layout, and playful icons. Fifth, any extra special features include elements like a gallery, forms, buttons, or slideshows, such as include a scrolling image banner and a button to join the club.",
+    "keywords": ["good prompts", "prompt elements", "website purpose", "target audience", "design specifications", "feature requirements", "effective communication"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Why Prompt Writing Is a Key Skill",
+    "category": "AI Prompting",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Prompt writing teaches students to think clearly, express ideas simply, plan structure, and effectively communicate design choices to AI tools.",
+    "content": "Prompt writing teaches students how to think clearly, express ideas in simple words, plan layout and structure, communicate design choices, and collaborate with AI like a teammate. AI tools won't guess what you want, they follow the instructions you write. That means better prompts equal better websites. Prompt writing is not typing randomly. It's planning, describing, and guiding the AI to turn your ideas into a working website. A prompt is your voice, your direction, and your plan for the website you want the AI to build. AI builds the site, but your prompt controls the outcome.",
+    "keywords": ["prompt writing", "communication skills", "planning", "clear thinking", "AI collaboration", "instruction giving", "design communication", "problem-solving"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Lovable AI Overview",
+    "category": "AI Tools",
+    "level": "beginner",
+    "type": "tool",
+    "summary": "Lovable AI is a beginner-friendly, prompt-based website builder that creates complete websites automatically, allowing students to build professional sites without coding knowledge.",
+    "content": "Lovable AI is a modern, AI-powered tool that helps you create a complete website just by typing a simple sentence, known as a prompt. It's built especially for beginners, students, and non-coders, making it one of the easiest and fastest ways to create a real, working website in just a few clicks. You don't need to learn programming or understand complex web tools. Instead, you tell the AI what kind of website you want, and it designs it for you automatically, giving you a head start, which you can later edit and personalize. Lovable AI is designed with young learners and beginners in mind. It's a powerful learning tool because it removes the fear of starting from scratch, gives students a sense of accomplishment quickly, lets students focus on content and creativity, not just technical setup, and provides a safe environment to experiment and build ideas.",
+    "keywords": ["Lovable AI", "website builder", "beginner tool", "auto website", "no-code design", "prompt-based tool", "student-friendly", "quick site creation", "AI-powered"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "How Lovable AI Works Step by Step",
+    "category": "AI Tools",
+    "level": "beginner",
+    "type": "process",
+    "summary": "Lovable AI works in three steps: writing a descriptive prompt, automatic website generation by AI, and customization through simple editing tools.",
+    "content": "Lovable AI works through a simple three-step process. First, you start with a prompt by writing a short description of the website you want. This can include the purpose such as for a school club, what kind of pages you need like Gallery or Contact, and the style or mood such as fun and colorful. An example prompt would be Make a fun website for my school book club. Add a homepage, about us section, book reviews, and contact info. Use a library theme with warm colors. Second, the AI generates the website automatically. Once you hit generate, Lovable AI uses your prompt to create a homepage, add sample text and placeholder images, choose colors and fonts based on your description, and build common sections like About, Gallery, Projects, Events, and Contact. This happens in seconds. The result is a complete draft of a real website you can interact with. Third, you customize and make it your own. After the AI creates the site, you can change headings and text to match your real content, replace stock photos with your own images, edit or move sections around, add buttons, forms, or extra pages, and adjust colors, layout, and font styles to your liking. Everything is done through drag-and-drop or simple editing with no need to write code.",
+    "keywords": ["Lovable AI workflow", "website creation process", "prompt writing", "automatic generation", "customization", "drag-and-drop", "editing", "website builder steps"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Lovable AI Use Cases for Students",
+    "category": "AI Tools",
+    "level": "beginner",
+    "type": "application",
+    "summary": "Students can use Lovable AI to create school project sites, club pages, personal portfolios, and awareness campaigns that can be shared with teachers and classmates.",
+    "content": "There are many great ways students can use Lovable AI. For school project sites, you can create a website to showcase a science fair project with an about section and experiment gallery. For club or team pages, you can build a website for a school dance club with a homepage, schedule, and member bios. For personal portfolios, you can make a personal website with sections for art, favorite books, and school achievements. For awareness campaigns, you can design a site to raise awareness about saving water, including facts, a call-to-action, and image section. These websites can be shared with teachers, classmates, family, or added to a digital portfolio.",
+    "keywords": ["student projects", "use cases", "school websites", "club pages", "portfolios", "awareness campaigns", "project showcase", "digital learning"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Lovable AI as a No-Code Platform",
+    "category": "AI Tools",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Lovable AI is a no-code platform that eliminates the need for HTML, CSS, or JavaScript knowledge, making website creation accessible to everyone from day one.",
+    "content": "Lovable AI is called a no-code platform because you don't have to write any HTML, CSS, or JavaScript. That means anyone can start designing from day one, you don't need tech experience, and you build confidence in digital creation quickly. Even though it's simple, the websites it builds are professional-looking and responsive, meaning they work well on phones and tablets too. The tool is browser-based with no download needed. It's built for a safe, simple, and focused creative experience.",
+    "keywords": ["no-code platform", "beginner-friendly", "accessible design", "responsive websites", "confidence building", "tech-free creation", "browser-based tool"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Lovable AI Functionality Overview",
+    "category": "AI Tools",
+    "level": "beginner",
+    "type": "reference",
+    "summary": "Lovable AI offers prompt-based input, instant site generation, pre-built sections, smart design choices, no-code editing, and responsive design capabilities.",
+    "content": "Lovable AI provides several key features. It uses prompt-based input where you guide the AI with a simple sentence or two. It offers instant site generation as the AI creates a full multi-page website in seconds. It comes with pre-built sections including About, Gallery, and Contact pages. It makes smart design choices as the AI picks color schemes, fonts, and images automatically. It provides no-code editing so you can change anything using simple tools. It includes responsive design ensuring websites work on desktop, tablet, and mobile devices.",
+    "keywords": ["Lovable AI features", "functionality", "prompt input", "instant generation", "pre-built sections", "smart design", "responsive design", "editing tools"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Digital Responsibility with Lovable AI",
+    "category": "AI Tools",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "While building with Lovable AI, students learn digital responsibility including privacy protection, appropriate content selection, source citation, and safe sharing practices.",
+    "content": "While building with Lovable AI, students also get to practice digital responsibility. This includes avoiding private info in public websites by not sharing full names, home addresses, or personal photos publicly. It means choosing appropriate visuals and language that are respectful and suitable for all audiences. It involves citing sources when needed, giving credit to images or information from other places. It also means sharing sites with classmates or teachers safely, being mindful of who can access the website.",
+    "keywords": ["digital responsibility", "online safety", "privacy protection", "appropriate content", "source citation", "safe sharing", "digital citizenship"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "WIX AI Overview",
+    "category": "AI Tools",
+    "level": "intermediate",
+    "type": "tool",
+    "summary": "WIX AI is an advanced website builder that combines AI assistance with extensive customization options, offering more design control and features than beginner platforms.",
+    "content": "WIX AI is a powerful website builder that uses artificial intelligence to help you create beautiful, functional websites, even if you're not a coding expert. It offers more advanced tools than beginner-friendly platforms like Lovable AI, making it perfect for students who want to take their creativity and customization to the next level. While still easy to use, WIX AI gives you greater design control, more options, and a richer editing experience. You can start with AI assistance, but you also have access to hundreds of templates and can manually edit every part of the site through drag-and-drop tools.",
+    "keywords": ["WIX", "WIX AI", "advanced AI website builder", "templates", "drag-and-drop design", "student portfolios", "custom websites", "visual editor"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "How WIX AI Works",
+    "category": "AI Tools",
+    "level": "intermediate",
+    "type": "process",
+    "summary": "WIX AI works through three phases: describing your website through prompts or guided questions, AI-generated design draft, and extensive drag-and-drop customization.",
+    "content": "WIX AI works through a structured process. First, you describe your website or answer questions. You begin by telling WIX AI what you need by typing a prompt like you would in Lovable, or answering a series of guided questions such as What's your website for, Do you want a blog, or Do you need a contact form. WIX AI then uses this information to design a smart draft of your website. Second, the AI designs the first version. Based on your answers, WIX AI chooses the right layout, adds relevant sections like Home, About, Projects, Gallery, Blog, and Contact, suggests design styles including colors, fonts, and background themes, inserts sample text and images, and sets up mobile-friendly design by default. But this is just the beginning as you now have the power to fully customize everything. Third, you use drag-and-drop to customize. WIX offers a drag-and-drop editor which means you can move, resize, or redesign every element on the page using your mouse. You can add new text boxes, headings, or icons, insert images, videos, audio, or PDF files, add buttons, forms, or links, embed YouTube videos, social media feeds, or Google Maps, and choose from hundreds of templates to change the look of the whole site. You don't need to write code, but you can if you want more advanced control as WIX supports HTML, CSS, and JavaScript in its dev mode.",
+    "keywords": ["WIX AI workflow", "guided setup", "AI design", "drag-and-drop editing", "customization", "template selection", "advanced editing", "mobile-friendly"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "WIX AI Design Features",
+    "category": "AI Tools",
+    "level": "intermediate",
+    "type": "reference",
+    "summary": "WIX AI offers full design control, over 800 templates, responsive design, animations and effects, integrated apps and tools, and optional eCommerce capabilities.",
+    "content": "WIX AI provides several design features that set it apart. It offers full design control allowing you to change every pixel of the page layout. It provides templates with over 800 professionally designed options to choose from. It ensures responsive design so websites work perfectly on phones, tablets, and desktops. It includes animations and effects such as fade-ins, sliders, parallax scrolling, and motion. It offers apps and tools that connect booking forms, event calendars, surveys, and more. It provides eCommerce capabilities as an option, allowing you to build stores to sell products online. WIX helps you go beyond basic websites and explore full digital creativity.",
+    "keywords": ["WIX features", "design control", "templates", "responsive design", "animations", "effects", "apps", "eCommerce", "professional design"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "WIX AI Best Use Cases for Students",
+    "category": "AI Tools",
+    "level": "intermediate",
+    "type": "application",
+    "summary": "WIX AI is ideal for advanced student projects including portfolios, club sites, event pages, personal blogs, small business simulations, and community awareness campaigns.",
+    "content": "WIX AI is excellent for students who want to create more advanced, polished, and interactive websites. For student portfolios, you can display school projects, artwork, poems, videos, or awards. For club or team sites, you can showcase club missions, member profiles, and event galleries. For school event pages, you can promote fests, competitions, and fundraisers with RSVP forms. For personal blogs or journals, you can share opinions, hobbies, stories, or travel memories. For small business or startups, you can try building a pretend shop or service page for a project. For community awareness campaigns, you can inform others about important causes related to climate, health, or education. WIX helps students build websites that look and feel like professional designs used in the real world.",
+    "keywords": ["student use cases", "portfolios", "club websites", "event promotion", "blogs", "business projects", "awareness campaigns", "advanced projects"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Why WIX AI is Great for Learning",
+    "category": "AI Tools",
+    "level": "intermediate",
+    "type": "concept",
+    "summary": "WIX AI teaches students design thinking, user experience, web layout, interactive features, and presentation skills through hands-on experimentation.",
+    "content": "Even though WIX offers more complexity than Lovable AI, it's still accessible and helps students develop deeper skills. Students learn design thinking by understanding how to create visually appealing and functional layouts. They study user experience by considering how visitors interact with and navigate websites. They master web layout and visual balance by arranging elements effectively on pages. They explore interactive features including galleries, forms, and sliders. They practice presentation and storytelling through websites by communicating ideas effectively online. Students also get to experiment with trial-and-error, changing layouts, adding elements, or exploring different templates until they find what works best. This makes WIX an educational tool as well as a creative sandbox.",
+    "keywords": ["learning tool", "design thinking", "user experience", "web layout", "interactive features", "storytelling", "experimentation", "skill development"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "WIX AI versus Lovable AI Comparison",
+    "category": "AI Tools",
+    "level": "intermediate",
+    "type": "comparison",
+    "summary": "WIX AI offers more customization and professional features compared to Lovable AI, making it ideal for advanced projects while Lovable AI is better for beginners.",
+    "content": "When comparing WIX AI and Lovable AI, several differences emerge. In terms of setup time, Lovable AI is super fast while WIX is slower but more flexible. For ease of use, Lovable AI is very simple while WIX requires exploration. Regarding customization, Lovable AI offers limited options while WIX provides full control. For templates, Lovable AI uses AI-generated designs only while WIX offers over 800 professional templates. The learning curve for Lovable AI is beginner-friendly while WIX is intermediate-friendly. Lovable AI is ideal for first-time creators while WIX is perfect for advanced student projects. WIX is perfect for when you're ready to go beyond basic and want your website to feel personal, professional, and polished.",
+    "keywords": ["WIX AI", "Lovable AI", "comparison", "customization levels", "templates", "beginner vs advanced", "learning curve", "tool selection"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "WIX AI Summary",
+    "category": "AI Tools",
+    "level": "intermediate",
+    "type": "summary",
+    "summary": "WIX AI combines intelligent automation with extensive manual editing capabilities, making it an excellent tool for students to learn real-world digital design skills.",
+    "content": "WIX AI is a smart, powerful website builder that combines AI with full manual editing. It starts with a prompt or questions and creates a strong website draft. You then use drag-and-drop tools and templates to customize everything with no code needed. It's ideal for student portfolios, event sites, club pages, or even personal blogs. WIX AI is a great tool to learn real-world digital design skills in a creative way.",
+    "keywords": ["WIX AI summary", "smart builder", "manual editing", "student tool", "digital design", "real-world skills", "creative learning"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Good Website Design Principles",
+    "category": "Design Principles",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Good website design focuses on being clean, consistent, and user-friendly through proper spacing, readable fonts, smart colors, consistency, and supportive visuals.",
+    "content": "A well-designed website helps visitors feel comfortable, stay longer, and find information easily. Good design isn't about being flashy, it's about being clear, consistent, and user-friendly. There are five simple principles students should follow. First, keep it clean and simple. Too much text or too many images make a site look crowded. Use spacing to separate content clearly so it's easy to read and scroll through. Second, use readable fonts. Choose fonts that are easy to read on screens. Avoid overly decorative fonts for body text. Clear fonts help everyone, including younger users or people with vision challenges. Third, pick smart colors. Colors should match the topic and be easy on the eyes. Use high contrast like dark text on a light background so nothing is hard to read. Fourth, stay consistent. Use the same font types, sizes, and color styles throughout your site. Consistency makes your website look professional and organized. Fifth, use visuals that support your content. Photos, icons, or videos make the site more fun and engaging. But don't overdo it. Make sure every visual matches your message and doesn't distract the reader.",
+    "keywords": ["design", "readability", "layout", "color", "balance", "user experience", "website tips", "consistency", "visual design", "simplicity"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Why Good Design Matters",
+    "category": "Design Principles",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Good design enhances user experience by guiding visitor attention, maintaining focus on important content, and creating positive lasting impressions.",
+    "content": "Good design is about the experience. It guides the visitor's eyes and attention. It helps them focus on what's important, and it leaves a good impression. In short, clean plus clear plus consistent equals great design. This makes your website look great and feel even better to the people who visit it.",
+    "keywords": ["user experience", "design impact", "visitor engagement", "visual guidance", "positive impression", "website effectiveness"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Website Accessibility Overview",
+    "category": "Ethics and Inclusion",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Website accessibility ensures that websites are usable by everyone, including people with disabilities, through inclusive design practices that promote digital equality.",
+    "content": "A great website is not just beautiful, it's usable by everyone, including people who have disabilities or challenges with vision, hearing, movement, or learning. This kind of design is called accessible design or inclusive design. Just like buildings need ramps and elevators to help people with different abilities, websites also need to be designed in a way that works for all kinds of users, including those who use screen readers, can't see colors well, or have difficulty clicking small buttons. Creating accessible websites shows kindness, awareness, and fairness. It helps more people access information, enjoy your content, and feel included.",
+    "keywords": ["accessibility", "inclusive design", "alt text", "contrast", "screen reader", "readability", "digital inclusion", "universal access", "disabilities"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "How to Make Websites More Accessible",
+    "category": "Ethics and Inclusion",
+    "level": "beginner",
+    "type": "guide",
+    "summary": "Making websites accessible involves using clear fonts, high contrast colors, alt text for images, avoiding flashing graphics, and creating descriptive links.",
+    "content": "There are several ways to make a website more accessible. First, use clear and large fonts. Small or overly fancy fonts are hard to read, especially for people with vision issues or learning difficulties. Stick to simple, readable fonts like Arial, Verdana, or Roboto, and use a comfortable size, usually 16 pixels or more. Second, keep high contrast between text and background. If the text and background colors are too similar like gray on white, it's hard to read. High contrast means using dark text on a light background or light text on a dark background. This helps everyone, not just those with low vision or color blindness. Third, add alt text to all images. Alt text is a short description of what an image shows. People who use screen readers, which are software that read webpages out loud, rely on alt text to understand the image. For example, instead of just showing a picture of a robot, write Student presenting a robot built in science class. Fourth, avoid flashing or moving graphics. Fast-flashing or blinking visuals can cause discomfort or even health issues like seizures in some people. Keep animations smooth and optional. Let users control them if possible. Fifth, make links descriptive. Don't just say Click here. Instead, be specific like Download the school schedule PDF or See the list of finalists. This helps screen reader users know exactly what a link will do.",
+    "keywords": ["accessibility practices", "clear fonts", "high contrast", "alt text", "screen readers", "descriptive links", "inclusive features", "visual accessibility"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Why Accessibility Matters",
+    "category": "Ethics and Inclusion",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Accessibility matters because over one billion people worldwide have disabilities and accessible design improves the experience for all users in various situations.",
+    "content": "Over one billion people worldwide have some form of disability. Many of them use the internet every day with tools like screen readers, voice navigation, or keyboard-only access. Making websites accessible helps everyone, not just those with disabilities. It improves the experience for all users, including people in noisy places, on mobile phones, or with slow connections. When you design a website, think beyond yourself. Ask questions like Can everyone read this, Would someone with a vision problem understand this image, and Can a person using only a keyboard navigate this site. Being accessible is about being respectful, thoughtful, and fair, making sure everyone has equal access to information. A website that welcomes everyone is a website that represents the best of you.",
+    "keywords": ["accessibility importance", "global impact", "disability statistics", "inclusive thinking", "equal access", "digital equality", "universal design"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Final Checks Before Publishing a Website",
+    "category": "Website Development",
+    "level": "beginner",
+    "type": "checklist",
+    "summary": "Before publishing, students should review their website using a comprehensive checklist covering homepage clarity, link functionality, content accuracy, mobile responsiveness, privacy, and footer completeness.",
+    "content": "Before you show your website to others, it's important to review and polish it. This helps you avoid mistakes and make your site look more professional. Here's a simple checklist to follow before you publish. Check the homepage to ensure it has a clear title and introduction. Click all the buttons and links to verify they go to the right places. Look at each section to confirm there are no typos or missing images. Test it on a phone to make sure the site still looks good and works well. Check for private info to ensure you're not sharing your full name, home address, or personal photos. See if the footer looks complete by adding your project name, credits, or your class if needed. This step is like proofreading your final draft before submitting an assignment. It shows that you care about quality and safety.",
+    "keywords": ["checklist", "final steps", "launch", "review", "proofread", "publish", "quality control", "website testing", "safety check"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "What Happens After Building a Website",
+    "category": "Student Progress",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "After building a website, students can showcase their work, share it via QR codes, create new projects, advance to better tools, and continue developing digital skills.",
+    "content": "Building your first website using AI tools like Lovable AI or WIX AI is a big achievement. But building a website is not the end. In fact, it's just the beginning of your journey as a digital creator. Once your site is ready, there are many exciting things you can do next to share it, improve it, and grow your skills.",
+    "keywords": ["next steps", "publishing", "showcase", "project ideas", "presentation", "feedback", "reflection", "learning growth", "skill development"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Showcasing Your Website in Class",
+    "category": "Student Progress",
+    "level": "beginner",
+    "type": "activity",
+    "summary": "Students should present their websites to classmates and teachers, explaining their topic choice, design decisions, sections included, and lessons learned while seeking constructive feedback.",
+    "content": "You've spent time thinking, planning, and designing your website, now it's time to present it proudly. Show your classmates, teacher, or even your parents what you've created. During your presentation, talk about what your website is about, why you chose this topic, what pages and sections you included, what design choices you made including colors, layout, and images, and what you learned during the process. As an activity tip, ask your classmates for feedback about what they like and what could be improved.",
+    "keywords": ["presentation", "class showcase", "feedback", "sharing work", "project explanation", "peer review", "constructive criticism"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Sharing Websites with QR Codes",
+    "category": "Student Progress",
+    "level": "beginner",
+    "type": "activity",
+    "summary": "Students can convert their website links into QR codes for easy sharing on posters, notebooks, project boards, and school newsletters.",
+    "content": "Did you know you can turn your website's link into a QR code? A QR code is like a shortcut that people can scan with their phone camera to visit your site instantly. You can print your QR code and stick it on a school poster, add it to your notebook, project board, or presentation slides, or share it in your school newsletter. This is a fun and professional way to share your site in the real world.",
+    "keywords": ["QR codes", "sharing methods", "mobile access", "professional presentation", "easy sharing", "physical distribution"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Creating Multiple Website Versions",
+    "category": "Student Progress",
+    "level": "beginner",
+    "type": "activity",
+    "summary": "Students should practice by creating multiple websites on different topics to improve their skills, speed, confidence, and creativity with each iteration.",
+    "content": "Now that you've practiced with one site, try making a new one on a different topic. Consider creating websites about a hobby such as dance, chess, sketching, Minecraft, or music, a personal blog or journal, an awareness campaign about climate change, animal rescue, or health tips, or a site for your class, sports team, or school club. With every new website you make, you'll become faster, more confident, and more creative. You can even rebuild the same project but with new design choices, improved content, or more pages. This helps you see your progress.",
+    "keywords": ["practice", "multiple projects", "skill improvement", "iteration", "confidence building", "creative growth", "project variety"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Advancing to More Complex Tools",
+    "category": "Student Progress",
+    "level": "intermediate",
+    "type": "progression",
+    "summary": "Students who master basic tools like Lovable AI should challenge themselves with advanced platforms like WIX AI to gain more design freedom and professional capabilities.",
+    "content": "If you started with Lovable AI, you've already learned the basics. Now challenge yourself by using WIX AI, a more advanced tool that gives you more design freedom, more layout and template options, drag-and-drop features, and interactive elements like forms, videos, sliders, and animations. This step helps you move from beginner to intermediate web designer. It also prepares you for real-world digital skills that are useful in careers like graphic design, digital marketing, or media creation.",
+    "keywords": ["skill progression", "advanced tools", "WIX AI", "intermediate level", "career preparation", "professional skills", "design freedom"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Learning HTML and CSS Basics",
+    "category": "Student Progress",
+    "level": "intermediate",
+    "type": "progression",
+    "summary": "Learning basic HTML and CSS helps students understand how websites work, make custom changes beyond AI tools, and gain more control over web design.",
+    "content": "You don't have to become a full coder, but learning the basics of HTML, which is how web content is structured, and CSS, which is how web content is styled, will help you understand how websites really work, let you make small changes to things that AI tools can't fix, and give you more control over text formatting, color schemes, and layout tricks. Think of it as planting seeds for future growth. You're building tech fluency step by step.",
+    "keywords": ["HTML", "CSS", "coding basics", "web structure", "web styling", "tech fluency", "manual coding", "technical skills"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Collecting Feedback and Reflecting",
+    "category": "Student Progress",
+    "level": "beginner",
+    "type": "activity",
+    "summary": "Students should gather feedback on their websites and reflect on clarity, navigation, content quality, and overall message before publishing.",
+    "content": "Before publishing your site to the world or even to your teacher, ask yourself several questions. Is everything easy to read and navigate? Do my images and text match my topic? Did I check spelling and grammar? Is the message of my website clear? You can also ask for peer feedback by asking what you think I could improve. This helps you learn from others and revise your site like a real web designer would.",
+    "keywords": ["feedback", "reflection", "peer review", "quality check", "revision", "improvement", "self-assessment", "design iteration"],
+    "module_name": "module5_kb"
+  },
+  {
+    "topic": "Celebrating Growth as a Digital Creator",
+    "category": "Student Progress",
+    "level": "beginner",
+    "type": "concept",
+    "summary": "Building websites develops valuable real-world skills in creativity, planning, communication, and technology that transform students from internet users to internet makers.",
+    "content": "When you build a website, you're not just showing knowledge, you're showing creativity, planning, communication, and tech skills. These are real-world skills used by designers, business owners, teachers, artists, and coders. Every time you build a new website, you become a better digital thinker, you learn to express yourself online, you gain confidence using powerful AI tools, and you move from being an internet user to an internet maker. Whether you want to be a coder, a teacher, a business owner, or an artist, knowing how to build websites gives you a powerful edge in today's world.",
+    "keywords": ["digital creator", "skill development", "growth mindset", "real-world skills", "confidence", "creative expression", "technology literacy", "career readiness"],
+    "module_name": "module5_kb"
+  }
+]

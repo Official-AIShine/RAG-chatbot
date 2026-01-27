@@ -1,0 +1,377 @@
+[
+    {
+        "topic": "What Is Game Development and How Does AI Change It?",
+        "category": "Introduction to Game Development with AI",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "Game development is the process of creating games that people can play, including their visuals, rules, interactions, scoring, and logic. Games can be simple, like quizzes and puzzles, or complex, like action and sports games.",
+        "content": "Game development is the process of creating games that people can play, including their visuals, rules, interactions, scoring, and logic. Games can be simple, like quizzes and puzzles, or complex, like action and sports games. Traditionally, making games required hours of coding, advanced logic, and technical skills. This made game development difficult for beginners. AI changes this by helping students create games using natural language instructions, also called prompts. With AI-powered tools, students can describe a game idea in simple words, and the AI helps generate the game’s interface, logic, and structure. This allows students to focus on creativity, planning, and problem-solving instead of struggling with syntax. AI does not replace thinking—it accelerates creation. Students still decide what the game does, how it looks, and how players interact with it.",
+        "keywords": [
+            "game development basics",
+            "AI in games",
+            "student game development",
+            "AI powered games",
+            "beginner game design",
+            "how games are made",
+            "AI game tools"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Traditional Game Development vs AI-Powered Game Creation",
+        "category": "Traditional vs AI Game Development",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Traditional game development involves writing large amounts of code, learning complex programming languages, and manually fixing errors. This approach is powerful but slow and difficult for beginners.",
+        "content": "Traditional game development involves writing large amounts of code, learning complex programming languages, and manually fixing errors. This approach is powerful but slow and difficult for beginners. AI-powered game development simplifies the process. Instead of writing every instruction, students describe what they want the game to do. AI then generates the user interface, logic, and even scoring systems. This does not remove learning—it changes what students learn first. Instead of memorizing syntax, students learn planning, logic, and creativity, which are more important long-term skills. AI allows rapid prototyping, meaning students can test ideas quickly, see results, and improve fast.",
+        "keywords": [
+            "traditional game development",
+            "AI game workflow",
+            "beginner game creation",
+            "manual coding vs AI",
+            "AI game benefits"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "How AI Is Used in Real Video Games Today",
+        "category": "AI in Real Games",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "AI is already used in many popular games—not to cheat players, but to improve gameplay quality. Game companies use AI for testing, balancing, and creating realistic opponents.",
+        "content": "AI is already used in many popular games—not to cheat players, but to improve gameplay quality. Game companies use AI for testing, balancing, and creating realistic opponents. In games like Minecraft, AI bots automatically test levels to find bugs and balance issues before real players play. In sports games like FIFA, AI controls teams so they behave realistically and challenge players. AI is also used in simulations, such as driving games that help train real-world self-driving technology. These games simulate real environments safely.",
+        "keywords": [
+            "AI in games examples",
+            "Minecraft AI bots",
+            "sports game AI",
+            "game testing AI",
+            "realistic opponents",
+            "AI simulations"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Why the Snake Game Is Perfect for Beginner Game Developers",
+        "category": "Choosing the First Game Project",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "The Snake game is a classic beginner project because it teaches core game concepts in a simple way. Despite being simple, it includes movement, scoring, collision detection, and real-time updates.",
+        "content": "The Snake game is a classic beginner project because it teaches core game concepts in a simple way. Despite being simple, it includes movement, scoring, collision detection, and real-time updates. Students can easily understand how the game works and then use AI to generate the code and interface. This makes Snake a perfect bridge between learning logic and using AI tools.",
+        "keywords": [
+            "snake game logic",
+            "beginner game project",
+            "learn game development",
+            "snake game explained",
+            "AI snake game"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "How the Snake Game Works: Understanding Core Game Logic",
+        "category": "Snake Game Logic",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Every game follows a set of rules, known as game logic. In the Snake game, this logic controls how the snake moves, grows, scores points, and ends the game.",
+        "content": "Every game follows a set of rules, known as game logic. In the Snake game, this logic controls how the snake moves, grows, scores points, and ends the game. The snake moves continuously in one direction until the player changes direction using keyboard controls or buttons. Each time the snake eats food, it grows longer and the score increases. The game checks constantly for collisions—if the snake hits a wall or itself, the game ends. This checking happens very fast, many times per second. AI tools automatically generate this logic, but students should understand what rules exist and why. Understanding game logic helps students fix issues, add features, and improve gameplay instead of blindly trusting AI output.",
+        "keywords": [
+            "snake game logic",
+            "game movement logic",
+            "collision detection",
+            "scoring systems",
+            "beginner game mechanics",
+            "AI game logic"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "What Is Collision Detection in Games?",
+        "category": "Collision Detection",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Collision detection is how a game knows when two things touch each other. In the Snake game, collisions happen when the snake hits the wall, its own body, or food.",
+        "content": "Collision detection is how a game knows when two things touch each other. In the Snake game, collisions happen when the snake hits the wall, its own body, or food. The game constantly checks the position of the snake and compares it with other objects. If positions overlap, a collision is detected, and the game reacts—either by increasing the score or ending the game. AI-generated code handles this automatically, but understanding the idea helps students add new features like obstacles, power-ups, or bonus items.",
+        "keywords": [
+            "collision detection games",
+            "game boundaries",
+            "hit detection",
+            "beginner game physics",
+            "snake game collision"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "What Is Game State and Why Does It Matter?",
+        "category": "State Management",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Game state refers to all the information a game needs to remember while it is running. This includes score, snake length, position, speed, level, and whether the game is active or over.",
+        "content": "Game state refers to all the information a game needs to remember while it is running. This includes score, snake length, position, speed, level, and whether the game is active or over. Every time something changes in the game, the state updates. Without proper state management, games behave unpredictably. AI tools create state management automatically, but students should understand that games are constantly remembering and updating values.",
+        "keywords": [
+            "game state management",
+            "score tracking",
+            "player position",
+            "game variables",
+            "beginner game development",
+            "AI game state"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Game Structure Explained: UI, Logic Layer, and Storage",
+        "category": "Game Architecture Basics",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Games are built using different layers, each with a clear role. The UI (User Interface) is everything players see—buttons, animations, scores, and visuals.",
+        "content": "Games are built using different layers, each with a clear role. The UI (User Interface) is everything players see—buttons, animations, scores, and visuals. The logic layer controls rules like movement, scoring, and collisions. The storage layer saves data like scores and progress for later use. AI tools automatically connect these layers, but understanding them helps students debug issues and add features.",
+        "keywords": [
+            "game structure explained",
+            "UI vs logic games",
+            "frontend backend games",
+            "game architecture basics",
+            "beginner game design"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Building Games with Lovable AI: A Beginner-Friendly Approach",
+        "category": "Using Lovable for Game Development",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "Lovable AI is a no-code / low-code platform that helps students build games by describing what they want in simple language. Instead of writing long programs, students explain the game idea, and Lovable AI generates the game interface and logic.",
+        "content": "Lovable AI is a no-code / low-code platform that helps students build games by describing what they want in simple language. Instead of writing long programs, students explain the game idea, and Lovable AI generates the game interface and logic. Lovable is especially useful for beginners because it allows students to see results immediately. This keeps motivation high and helps students learn through experimentation rather than memorization. Lovable also allows students to edit generated code, which means learners can slowly move from no-code to understanding real game code when they are ready.",
+        "keywords": [
+            "Lovable AI games",
+            "build games with AI",
+            "no-code game development",
+            "student game builder",
+            "AI game UI",
+            "beginner game tools"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Prompt-to-Game Workflow: Turning Ideas into Playable Games",
+        "category": "Prompt-Driven Game Design",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Prompt-driven game design means communicating clearly with AI so it understands exactly how your game should work. The better the prompt, the better the game output.",
+        "content": "Prompt-driven game design means communicating clearly with AI so it understands exactly how your game should work. The better the prompt, the better the game output. A strong game prompt includes: What kind of game it is Visual style Game elements (score, levels, controls) Rules and constraints Students should think of prompts as game instructions, not commands.",
+        "keywords": [
+            "prompt driven games",
+            "AI game prompts",
+            "game design prompts",
+            "student AI prompts",
+            "Lovable game prompts"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Improving Your Game Step by Step Using AI Iteration",
+        "category": "Iterative Game Development",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Game development is not done in one step. Students build a base version first, then improve it gradually.",
+        "content": "Game development is not done in one step. Students build a base version first, then improve it gradually. This process is called iteration. With AI tools, iteration becomes easy. Students can ask AI to increase speed, change visuals, add rewards, or fix bugs—one feature at a time. Iteration teaches patience, testing, and problem-solving, which are essential real-world skills.",
+        "keywords": [
+            "iterative game design",
+            "improve AI games",
+            "game iteration",
+            "bug fixing games",
+            "student game improvement"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Customising the Snake Game: Speed, Skins, Rewards, and Messages",
+        "category": "Snake Game Enhancements",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "Once the Snake game works, students can make it more exciting by adding custom features. These include increasing speed after certain points, changing the snake’s appearance, unlocking skins, and showing encouraging messages.",
+        "content": "Once the Snake game works, students can make it more exciting by adding custom features. These include increasing speed after certain points, changing the snake’s appearance, unlocking skins, and showing encouraging messages. AI allows students to add these features without rewriting the entire game. Each feature is added through a clear improvement prompt. These enhancements teach students how game difficulty, motivation, and rewards work together.",
+        "keywords": [
+            "snake game customization",
+            "game rewards",
+            "game skins",
+            "score based rewards",
+            "AI game features"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "What Is a Quiz-Quest Game and Why Is It Great for Learning?",
+        "category": "Quiz-Quest Game Concept",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "A Quiz-Quest game is a question-based game where players progress through levels by answering questions correctly. Unlike simple quizzes, Quiz-Quest games feel like an adventure, with levels, rewards, and increasing difficulty.",
+        "content": "A Quiz-Quest game is a question-based game where players progress through levels by answering questions correctly. Unlike simple quizzes, Quiz-Quest games feel like an adventure, with levels, rewards, and increasing difficulty. In this module, the Quiz-Quest game is designed for students aged 10–18 and includes topics like General Knowledge, Science, Artificial Intelligence, and Math. Each player receives random questions, making the game fair and exciting. Quiz-Quest games are powerful because they combine learning and fun. Students revise concepts while playing, without feeling like they are taking a test. AI makes building Quiz-Quest games easier by generating questions, designing layouts, managing levels, and handling logic.",
+        "keywords": [
+            "quiz game development",
+            "quiz quest game",
+            "learning games",
+            "student quiz games",
+            "AI quiz games",
+            "MCQ game design"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "How Levels and Difficulty Work in Quiz-Quest Games",
+        "category": "Levels & Difficulty Scaling",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Levels help games feel structured and rewarding. In a Quiz-Quest game, levels usually increase difficulty step by step.",
+        "content": "Levels help games feel structured and rewarding. In a Quiz-Quest game, levels usually increase difficulty step by step. Early levels are easy to build confidence, while later levels challenge the player. Difficulty can increase by: Making questions harder Adding time limits Increasing number of options AI helps manage difficulty by selecting appropriate questions and adjusting game logic automatically.",
+        "keywords": [
+            "game levels",
+            "difficulty scaling",
+            "quiz game levels",
+            "progressive difficulty",
+            "AI game balancing"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "What Is a Database and Why Do Games Need One?",
+        "category": "Understanding Game Databases",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "A database is a place where games store information so it can be remembered later. Without databases, games would forget everything once they are closed.",
+        "content": "A database is a place where games store information so it can be remembered later. Without databases, games would forget everything once they are closed. Games use databases to store: Player names Scores Levels completed Number of times played Databases are especially important for leaderboards and multiplayer features. AI helps connect games to databases easily, but students should understand what data is being stored and why.",
+        "keywords": [
+            "database explained",
+            "game data storage",
+            "game backend basics",
+            "scores database",
+            "player data storage"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Supabase Explained: Your Game’s Data Manager",
+        "category": "Supabase Overview",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "Supabase is a free backend platform that helps games store data securely. It is beginner-friendly and perfect for student projects.",
+        "content": "Supabase is a free backend platform that helps games store data securely. It is beginner-friendly and perfect for student projects. Supabase can manage: Databases (scores, progress) Authentication (player login) Storage (images, sounds) In Module 6, Supabase is used to store player names, top 5 scores, number of plays, and duration. AI helps connect Supabase to games step by step.",
+        "keywords": [
+            "Supabase explained",
+            "game backend tool",
+            "student databases",
+            "game authentication",
+            "AI game backend"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Leaderboards, Players & Multiplayer Thinking in Games",
+        "category": "Multiplayer & Leaderboards",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "Leaderboards show top players and scores, making games more competitive and exciting. Even single-player games can feel multiplayer when scores are shared.",
+        "content": "Leaderboards show top players and scores, making games more competitive and exciting. Even single-player games can feel multiplayer when scores are shared. In Quiz-Quest, leaderboards display: Top 5 players Their scores Number of times the game was played This teaches students how shared data connects players, even if they are not playing at the same time.",
+        "keywords": [
+            "game leaderboards",
+            "multiplayer games basics",
+            "top scores games",
+            "competitive games",
+            "student multiplayer logic"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "How ChatGPT Helps Students Build, Fix, and Improve Games",
+        "category": "ChatGPT as a Game Assistant",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "ChatGPT acts as a thinking and problem-solving assistant for students while building games. It helps students write prompts, generate game logic, explain code, and fix errors.",
+        "content": "ChatGPT acts as a thinking and problem-solving assistant for students while building games. It helps students write prompts, generate game logic, explain code, and fix errors. Unlike game builders that focus on layout and visuals, ChatGPT focuses on logic, explanations, and improvements. Students can ask ChatGPT to simplify complex code, explain why something works, or suggest better ways to design game rules. ChatGPT is especially helpful when games break. Instead of getting stuck, students can ask the AI to debug or improve the code step by step. This builds confidence and reduces frustration.",
+        "keywords": [
+            "ChatGPT for games",
+            "AI coding assistant",
+            "game debugging with AI",
+            "student game help",
+            "AI explaining code",
+            "beginner game coding support"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Common AI Game Development Mistakes and How to Fix Them",
+        "category": "AI Mistakes & Debugging",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "AI tools are powerful, but they are not perfect. Students may face broken code, messy interfaces, overly complex logic, or incorrect game behavior.",
+        "content": "AI tools are powerful, but they are not perfect. Students may face broken code, messy interfaces, overly complex logic, or incorrect game behavior. Common mistakes include: Broken game logic Cluttered or confusing UI Too advanced code Wrong or repeated questions The good news is that these mistakes are easy to fix by asking AI clearly and specifically.",
+        "keywords": [
+            "AI mistakes in games",
+            "debugging AI code",
+            "fix broken games",
+            "student game errors",
+            "AI troubleshooting"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "AI Safety Rules for Students Building Games",
+        "category": "AI Safety Guidelines",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Overview",
+        "summary": "AI safety is essential when students build games. Students must protect personal data, use AI responsibly, and stay supervised.",
+        "content": "AI safety is essential when students build games. Students must protect personal data, use AI responsibly, and stay supervised. Key safety rules include: Never sharing personal information Not uploading photos Using AI with teacher or parent guidance Verifying AI-generated code and content Safe AI use ensures learning stays fun, ethical, and secure.",
+        "keywords": [
+            "AI safety for students",
+            "safe game development",
+            "AI ethics basics",
+            "online safety games",
+            "student AI rules"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Assessment Project: Build and Showcase Your AI Game",
+        "category": "Assessment Project",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Application",
+        "summary": "The assessment project asks students to build a playable game using AI tools and showcase their learning. Students focus on UI design, functionality, creativity, and responsible AI usage.",
+        "content": "The assessment project asks students to build a playable game using AI tools and showcase their learning. Students focus on UI design, functionality, creativity, and responsible AI usage. The goal is not perfection, but learning and improvement. Students are encouraged to explain their game, how AI helped, and what they learned.",
+        "keywords": [
+            "student game project",
+            "AI game assessment",
+            "build your own game",
+            "game development challenge",
+            "student showcase"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "How Game Projects Are Evaluated: Student-Friendly Rubric Explained",
+        "category": "Evaluation Rubric",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Projects are evaluated equally across four areas: UI Design – clarity and creativity Functionality – at least one working feature Originality – unique ideas AI Usage – smart and safe prompts This ensu",
+        "content": "Projects are evaluated equally across four areas: UI Design – clarity and creativity Functionality – at least one working feature Originality – unique ideas AI Usage – smart and safe prompts This ensures students are rewarded for balanced learning, not just visuals or complexity.",
+        "keywords": [
+            "game evaluation rubric",
+            "student grading criteria",
+            "AI project assessment",
+            "game design scoring"
+        ],
+        "module_name": "module6_kb"
+    },
+    {
+        "topic": "Reflection, Growth, and the Next Step in AI Game Development",
+        "category": "Reflection & Wrap-Up",
+        "level": "Beginner (Grades 6–12)",
+        "type": "Concept",
+        "summary": "Every expert game developer started as a beginner. This module shows students that with AI, creativity and curiosity matter more than technical perfection.",
+        "content": "Every expert game developer started as a beginner. This module shows students that with AI, creativity and curiosity matter more than technical perfection. Students are encouraged to reflect on: What they built What they learned What they want to build next Reflection turns projects into long-term learning.",
+        "keywords": [
+            "learning reflection",
+            "beginner game developer journey",
+            "AI learning growth",
+            "student motivation",
+            "next steps AI games"
+        ],
+        "module_name": "module6_kb"
+    }
+]
