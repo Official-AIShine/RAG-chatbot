@@ -20,7 +20,7 @@ logger = logging.getLogger(__name__)
 
 class MongoDBClient:
     """MongoDB Atlas client with vector search + conversation storage."""
-    
+
     # PRODUCTION LIMIT: Prevent unbounded conversation growth
     MAX_MESSAGES_PER_CONVERSATION = 200
     
@@ -137,8 +137,8 @@ class MongoDBClient:
     def vector_search(
         self,
         query_embedding: List[float],
-        limit: int = 5,
-        similarity_threshold: float = 0.55,
+        limit: int = 3,
+        similarity_threshold: float = 0.4,
         metadata_filters: Optional[Dict[str, Any]] = None
     ) -> List[Dict[str, Any]]:
         """

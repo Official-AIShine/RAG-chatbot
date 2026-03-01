@@ -65,11 +65,11 @@ def main():
     
     # Files to ingest
     files = [
-        r"C:\Users\newbr\OneDrive\Desktop\AISHINEBE_CLAUDE_unifiedrag\Parsed_Module5_KB.json",
-        r"C:\Users\newbr\OneDrive\Desktop\AISHINEBE_CLAUDE_unifiedrag\Parsed_Module6_KB.json",
-        r"C:\Users\newbr\OneDrive\Desktop\AISHINEBE_CLAUDE_unifiedrag\Parsed_Module7_KB.json",
-        r"C:\Users\newbr\OneDrive\Desktop\AISHINEBE_CLAUDE_unifiedrag\Parsed_Module8_KB.json",
-        r"C:\Users\newbr\OneDrive\Desktop\AISHINEBE_CLAUDE_unifiedrag\Parsed_Module9_KB.json"
+            # r"C:\Users\newbr\OneDrive\Desktop\AISHINEBE_CLAUDE\faqs.json",
+        # r"C:\Users\newbr\OneDrive\Desktop\AISHINEBE_CLAUDE_unifiedrag\Parsed_Module6_KB.json",
+        # r"C:\Users\newbr\OneDrive\Desktop\AISHINEBE_CLAUDE_unifiedrag\Parsed_Module7_KB.json",
+        # r"C:\Users\newbr\OneDrive\Desktop\AISHINEBE_CLAUDE_unifiedrag\Parsed_Module8_KB.json",
+        # r"C:\Users\newbr\OneDrive\Desktop\AISHINEBE_CLAUDE_unifiedrag\Parsed_Module9_KB.json"
     ]
     
     total_inserted = 0

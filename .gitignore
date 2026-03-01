@@ -1,3 +1,40 @@
 .env
 .venv/
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Caches
+.pytest_cache/
+.claude/
+
+# Env files
+.env
+
+# Tests
+tests/
+
+# Docs
+ARCHITECTURE.md
+
+# Data / temp
+faqs.json
+kb_ingestion_script.py
+nul
+Parsed_Module5_KB.json
+Parsed_Module6_KB.json
+Parsed_Module7_KB.json
+Parsed_Module8_KB.json
+Parsed_Module9_KB.json
+pytest.ini
+test_chunking_demo.py
+test_route_query.py
+verify_langchain.py
+
+# OS
+.DS_Store
+Thumbs.db
